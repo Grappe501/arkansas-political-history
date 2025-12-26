@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SvelteKit / Vite
+site/.svelte-kit/
+site/build/
+site/.vite/
+
+# Local tooling (never commit binaries)
+tools/
+*.exe
+
+# Logs
+data/logs/*.log
+data/logs/*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
