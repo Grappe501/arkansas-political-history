@@ -5,63 +5,138 @@ import matter from 'gray-matter';
 
 const ROOT = process.cwd();
 const CONTENT_ROOT = path.join(ROOT, 'site', 'src', 'content');
-const PAGES_ROOT = path.join(CONTENT_ROOT, 'pages');
+
 const OUT_DIR = path.join(ROOT, 'site', 'src', 'lib', 'generated');
-const OUT_FILE = path.join(OUT_DIR, 'content-index.json');
+const OUT_FILE = path.join(OUT_DIR, 'archive-index.json');
 
 function ensureDir(p) {
 	fs.mkdirSync(p, { recursive: true });
 }
 
-function normalizeSlug(relPathNoExt) {
-	// Windows path -> URL path
-	return relPathNoExt.split(path.sep).join('/');
+function toUrlPath(p) {
+	return p.split(path.sep).join('/');
+}
+
+function normalizeTags(v) {
+	if (Array.isArray(v)) return v.filter((t) => typeof t === 'string');
+	if (typeof v === 'string') return [v];
+	return [];
+}
+
+function indexFolder(section, folderRel) {
+	const folderAbs = path.join(CONTENT_ROOT, folderRel);
+	if (!fs.existsSync(folderAbs)) {
+		fs.mkdirSync(folderAbs, { recursive: true });
+		return [];
+	}
+
+	const files = fg.sync(['**/*.md'], { cwd: folderAbs, dot: false });
+
+	return files.map((rel) => {
+		const full = path.join(folderAbs, rel);
+		const raw = fs.readFileSync(full, 'utf8');
+		const parsed = matter(raw);
+		const meta = parsed.data ?? {};
+
+		const relNoExt = rel.replace(/\.md$/i, '');
+		const slugPath = toUrlPath(relNoExt);
+
+		// Route convention:
+		//  - pages -> /p/<slug>
+		//  - timelines -> /timeline/<slug>
+		//  - frameworks -> /power/<slug> (for now; we’ll expand later)
+		//  - constitutions -> /constitutions/<slug>
+		//  - legislative-process -> /legislative/<slug>
+		//  - sources -> /sources/<slug>
+		let url = '';
+		switch (section) {
+			case 'pages':
+				url = `/p/${slugPath}`;
+				break;
+			case 'timelines':
+				url = `/timeline/${slugPath}`;
+				break;
+			case 'frameworks':
+				url = `/power/${slugPath}`;
+				break;
+			case 'constitutions':
+				url = `/constitutions/${slugPath}`;
+				break;
+			case 'legislative':
+				url = `/legislative/${slugPath}`;
+				break;
+			case 'sources':
+				url = `/sources/${slugPath}`;
+				break;
+			default:
+				url = `/${section}/${slugPath}`;
+		}
+
+		const title = typeof meta.title === 'string' ? meta.title : slugPath;
+		const description = typeof meta.description === 'string' ? meta.description : '';
+		const tags = normalizeTags(meta.tags);
+
+		// Optional common metadata
+		const date = typeof meta.date === 'string' ? meta.date : '';
+		const era = typeof meta.era === 'string' ? meta.era : '';
+		const place = typeof meta.place === 'string' ? meta.place : '';
+
+		return {
+			section,
+			slug: slugPath,
+			url,
+			title,
+			description,
+			tags,
+			date,
+			era,
+			place
+		};
+	});
 }
 
 function main() {
 	ensureDir(OUT_DIR);
 
-	if (!fs.existsSync(PAGES_ROOT)) {
-		console.log(`[build-content-index] No pages folder found: ${PAGES_ROOT}`);
-		console.log('[build-content-index] Creating it.');
-		fs.mkdirSync(PAGES_ROOT, { recursive: true });
+	const sections = [
+		{ section: 'pages', folderRel: 'pages' },
+		{ section: 'timelines', folderRel: 'timelines' },
+		{ section: 'frameworks', folderRel: 'frameworks' },
+		{ section: 'constitutions', folderRel: 'constitutions' },
+		{ section: 'legislative', folderRel: 'legislative-process' },
+		{ section: 'sources', folderRel: 'sources' }
+	];
+
+	const items = sections.flatMap((s) => indexFolder(s.section, s.folderRel));
+
+	// Build tag index
+	const tagMap = new Map();
+	for (const item of items) {
+		for (const tag of item.tags) {
+			if (!tagMap.has(tag)) tagMap.set(tag, []);
+			tagMap.get(tag).push(item.url);
+		}
 	}
 
-	const patterns = ['**/*.md'];
-	const files = fg.sync(patterns, { cwd: PAGES_ROOT, dot: false });
-
-	const items = files
-		.map((rel) => {
-			const full = path.join(PAGES_ROOT, rel);
-			const raw = fs.readFileSync(full, 'utf8');
-			const parsed = matter(raw);
-
-			const relNoExt = rel.replace(/\.md$/i, '');
-			const slug = normalizeSlug(relNoExt);
-
-			const meta = parsed.data ?? {};
-			const title = typeof meta.title === 'string' ? meta.title : slug;
-			const description = typeof meta.description === 'string' ? meta.description : '';
-			const tags = Array.isArray(meta.tags) ? meta.tags : [];
-
-			return {
-				slug,
-				title,
-				description,
-				tags
-			};
-		})
-		.sort((a, b) => a.slug.localeCompare(b.slug));
+	const tags = Array.from(tagMap.entries())
+		.map(([tag, urls]) => ({
+			tag,
+			count: urls.length,
+			urls: urls.sort()
+		}))
+		.sort((a, b) => a.tag.localeCompare(b.tag));
 
 	const payload = {
 		generatedAt: new Date().toISOString(),
 		count: items.length,
-		items
+		items: items.sort((a, b) => a.url.localeCompare(b.url)),
+		tags
 	};
 
 	fs.writeFileSync(OUT_FILE, JSON.stringify(payload, null, 2), 'utf8');
 	console.log(`[build-content-index] Wrote: ${OUT_FILE}`);
-	console.log(`[build-content-index] Pages indexed: ${items.length}`);
+	console.log(`[build-content-index] Items indexed: ${items.length}`);
+	console.log(`[build-content-index] Tags indexed: ${tags.length}`);
 }
 
 main();
