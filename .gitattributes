@@ -1,0 +1,28 @@
+# Normalize line endings in repo; checkout as CRLF on Windows
+* text=auto eol=crlf
+
+# Keep shell scripts LF if we add them later
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Common web files
+*.js text
+*.ts text
+*.json text
+*.md text
+*.toml text
+*.yml text
+*.yaml text
+*.css text
+*.html text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg text
+*.pdf binary
+*.docx binary
+*.zip binary
