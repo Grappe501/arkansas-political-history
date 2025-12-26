@@ -4,6 +4,9 @@ description: "Documented the Arkansas Constitution of 1874."
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Log"
+status: "Published"
 ---
 
 # Arkansas Political History Project

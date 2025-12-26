@@ -1,37 +1,34 @@
 ---
-title: "Decision_ Frame the 1868 Constitution as Enforced Democratic Realignment"
-description: "\\# Decision: Frame the 1868 Constitution as Enforced Democratic Realignment"
+title: "Decision: Frame the 1868 Constitution as Enforced Democratic Realignment"
+description: "Analyze the 1868 Constitution as an externally enforced realignment of political power rather than an internal reform movement."
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Decision"
+status: "Published"
+date: "2025-03-31"
 ---
 
-\# Decision: Frame the 1868 Constitution as Enforced Democratic Realignment
+# Decision: Frame the 1868 Constitution as Enforced Democratic Realignment
 
-\## Date
-
+## Date
 2025-03-31
 
-\## Context
-
+## Context
 The 1868 Constitution introduced the most expansive democratic reforms in Arkansas history under federal oversight.
 
-\## Decision
-
+## Decision
 Analyze the 1868 Constitution as an externally enforced realignment of political power rather than an internal reform movement.
 
-\## Alternatives Considered
+## Alternatives Considered
+- Treat as organic democratic evolution (rejected)
+- Treat as illegitimate imposition (rejected)
 
-\- Treat as organic democratic evolution (rejected)
+## Consequences
+- Centers analysis on enforcement, resistance, and backlash.
+- Prevents victim-blaming narratives about Reconstruction failure.
 
-\- Treat as illegitimate imposition (rejected)
-
-\## Consequences
-
-\- Centers analysis on enforcement, resistance, and backlash.
-
-\- Prevents victim-blaming narratives about Reconstruction failure.
-
-\## Revisit Conditions
-
+## Revisit Conditions
 If future evidence suggests broader internal support than currently documented.
+

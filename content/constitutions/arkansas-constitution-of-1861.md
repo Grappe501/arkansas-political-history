@@ -4,6 +4,9 @@ description: "Arkansas Constitution of 1861 (Secession Constitution)"
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Constitution"
+status: "Published"
 ---
 
 # Arkansas Constitution of 1861 (Secession Constitution)

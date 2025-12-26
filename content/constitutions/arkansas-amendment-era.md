@@ -1,9 +1,12 @@
 ---
-title: "Arkansas Amendment Era (1874\u2013Present)"
-description: "Since the adoption of the 1874 Constitution, Arkansas has operated under a framework intentionally designed to resist structural change. The Amendment Era is defined by a continuous struggle between:"
+title: "Arkansas Amendment Era (1874–Present)"
+description: "Since the adoption of the 1874 Constitution, Arkansas has operated under a framework intentionally designed to resist structural change. The Amendment Era is defined by a continuous struggle between popular efforts to modernize governance and elite efforts to contain or procedurally block reform."
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Era"
+status: "Published"
 ---
 
 # Arkansas Amendment Era (1874–Present)
@@ -127,3 +130,4 @@ Specific amendment case studies will be added:
 - and legislative countermeasures.
 
 All additions must be logged additively.
+

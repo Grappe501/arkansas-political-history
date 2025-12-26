@@ -4,6 +4,9 @@ description: "Arkansas became a state in 1836 amid rapid westward expansion, Ind
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Constitution"
+status: "Published"
 ---
 
 # Arkansas Constitution of 1836

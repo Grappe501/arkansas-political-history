@@ -4,6 +4,9 @@ description: "This document defines the primary political eras of Arkansas histo
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Framework"
+status: "Published"
 ---
 
 # Arkansas Political Eras — Foundational Periodization
