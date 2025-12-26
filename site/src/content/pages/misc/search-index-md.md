@@ -4,7 +4,6 @@ description: "This archive is designed to be explored."
 tags:
   - migration:uncategorized
 ---
-
 ---
 title: "Search the Archive"
 section: "Search"
@@ -23,7 +22,7 @@ Search by:
 - power mechanism,
 - or policy area.
 
-You do not need to know where something “lives” to find it.
+You do not need to know where something "lives" to find it.
 
 ---
 
@@ -31,11 +30,11 @@ You do not need to know where something “lives” to find it.
 
 **Search terms**
 Examples:
-- “1874”
-- “initiative”
-- “preemption”
-- “Phillips County”
-- “at-large”
+- "1874"
+- "initiative"
+- "preemption"
+- "Phillips County"
+- "at-large"
 
 [ Search box goes here ]
 
@@ -57,17 +56,17 @@ Use filters to narrow results without losing context.
 
 ### Era
 - Any era
-- Indigenous Governance (Pre-Contact–1680s)
-- Colonial Contestation (1680s–1803)
-- Territorial Rule (1803–1836)
-- Early Statehood & Slaveholding Republic (1836–1861)
-- Civil War & Constitutional Collapse (1861–1865)
-- Reconstruction & Federal Intervention (1865–1874)
-- Redemption & Jim Crow Consolidation (1874–1940s)
-- Federal Expansion & Centralization (1930s–1960s)
-- Civil Rights Conflict (1950s–1970s)
-- Conservative Realignment (1980s–2000s)
-- One-Party Rule & Procedural Power (2010s–Present)
+- Indigenous Governance (Pre-Contact-1680s)
+- Colonial Contestation (1680s-1803)
+- Territorial Rule (1803-1836)
+- Early Statehood & Slaveholding Republic (1836-1861)
+- Civil War & Constitutional Collapse (1861-1865)
+- Reconstruction & Federal Intervention (1865-1874)
+- Redemption & Jim Crow Consolidation (1874-1940s)
+- Federal Expansion & Centralization (1930s-1960s)
+- Civil Rights Conflict (1950s-1970s)
+- Conservative Realignment (1980s-2000s)
+- One-Party Rule & Procedural Power (2010s-Present)
 
 ### Power Channel
 - Any channel
@@ -131,7 +130,7 @@ Each result shows:
 - Date or date range (if applicable)
 - Tags (clickable)
 - Status (Draft/Active)
-- Short excerpt (1–2 lines)
+- Short excerpt (1-2 lines)
 
 ---
 

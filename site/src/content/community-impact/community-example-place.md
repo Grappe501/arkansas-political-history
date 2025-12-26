@@ -1,28 +1,17 @@
 ---
-title: "community_example_place.md"
+title: "Phillips County"
 description: "Phillips County has been shaped by agricultural labor, racial hierarchy, and long-standing struggles over political representation."
 tags:
   - migration:prototype
   - section:community-impact
----
-
----
-
-title: "Phillips County"
-
 section: "Community"
-
 type: "Place"
-
 geography: "County"
-
 status: "Draft"
-
 ---
+# Phillips County
 
-\# Phillips County
-
-\## Overview
+## Overview
 
 Phillips County has been shaped by agricultural labor, racial hierarchy, and long-standing struggles over political representation.
 
@@ -30,60 +19,49 @@ Its history illustrates how statewide governance decisions manifest unevenly at 
 
 ---
 
-\## Historical Context
+## Historical Context
 
-\- Plantation-based economy
-
-\- High Black population following emancipation
-
-\- Central role in Reconstruction politics
+- Plantation-based economy
+- High Black population following emancipation
+- Central role in Reconstruction politics
 
 ---
 
-\## Political Representation
+## Political Representation
 
-\- Shifts between inclusion and suppression
-
-\- Use of local control to entrench power
-
-\- Long-term underrepresentation despite demographic majority
+- Shifts between inclusion and suppression
+- Use of local control to entrench power
+- Long-term underrepresentation despite demographic majority
 
 ---
 
-\## Key Policy Impacts
+## Key Policy Impacts
 
-\- Education underfunding
-
-\- Agricultural labor conditions
-
-\- Criminal justice disparities
+- Education underfunding
+- Agricultural labor conditions
+- Criminal justice disparities
 
 ---
 
-\## Power Dynamics
+## Power Dynamics
 
-\- Local elites aligned with state power
-
-\- Courts and enforcement used to suppress participation
-
-\- Community resistance through organizing and litigation
+- Local elites aligned with state power
+- Courts and enforcement used to suppress participation
+- Community resistance through organizing and litigation
 
 ---
 
-\## Long-Term Patterns
+## Long-Term Patterns
 
-\- Cycles of inclusion and rollback
-
-\- Persistent economic extraction
-
-\- Enduring civic resilience
+- Cycles of inclusion and rollback
+- Persistent economic extraction
+- Enduring civic resilience
 
 ---
 
-\## Related Pages
+## Related Pages
 
-\- Reconstruction Era
+- Reconstruction Era
+- Constitution of 1874
+- Power: Geography
 
-\- Constitution of 1874
-
-\- Power: Geography

@@ -4,32 +4,31 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
 # Search, Tagging & Cross-Linking Logic
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## 1) Core principle
-Readers shouldn’t have to know where something lives to find it.
+Readers shouldn't have to know where something lives to find it.
 Search and linking must let someone start from:
-a person (“Brooks–Baxter War”)
-a concept (“preemption”)
-a place (“Phillips County”)
-a document (“Constitution of 1874”)
+a person ("Brooks-Baxter War")
+a concept ("preemption")
+a place ("Phillips County")
+a document ("Constitution of 1874")
 
- …and still arrive at the right material fast.
+ ...and still arrive at the right material fast.
 
 ## 2) Entity types (the things we can search and link)
-These are the canonical “nodes” of the system (even before the database):
+These are the canonical "nodes" of the system (even before the database):
 Constitution (1836, 1861, 1864, 1868, 1874, Amendment Era)
 Era
 Event
 Power Channel (Rules, Gatekeepers, Money, Courts, Geography, Narrative)
 Power Mechanism (preemption, disenfranchisement, etc.)
 Community (place-based or group-based)
-Institution (General Assembly, courts, agencies—prototype stubs)
+Institution (General Assembly, courts, agencies-prototype stubs)
 Source (documents, archives)
 Claim (later: atomic assertions, source-linked)
-For the prototype, we’ll implement 1–6 as first-class, and leave 7–9 as stubs that still tag and link.
+For the prototype, we'll implement 1-6 as first-class, and leave 7-9 as stubs that still tag and link.
 
 ## 3) Required frontmatter (minimal but powerful)
 Every Markdown page gets frontmatter so the site can auto-index it.
@@ -40,7 +39,7 @@ section: ""         # Constitution | Timeline | Power | Community | Legislature 
 type: ""            # constitution | era | event | framework | community | policy | explainer | source
 status: ""          # template | draft | active
 date: ""            # YYYY or YYYY-MM-DD or range (if event)
-date_range: ""      # YYYY–YYYY (if era or long-form scope)
+date_range: ""      # YYYY-YYYY (if era or long-form scope)
 ---
 ### Optional but strongly recommended
 tags:
@@ -111,17 +110,17 @@ This makes search predictable.
 ## 5) Cross-linking rules (how pages connect)
 ### Minimum cross-links per page
 Constitution page: must link to relevant era(s) + at least 2 events
-Era page: must link to relevant constitution(s) + 3–10 events
+Era page: must link to relevant constitution(s) + 3-10 events
 Event page: must link to era + constitution (if relevant) + at least one power channel
 Power mechanism page (future): must link to at least 3 examples (events or policies)
 Community page: must link to at least 1 era + 1 power mechanism + 1 policy area
 This creates a web, not a tree.
-### “Related Pages” block (standardized)
+### "Related Pages" block (standardized)
 Every page ends with:
 Related Pages (links)
 Tags (visible, clickable)
 Status + last updated
-Sources section (even if “pending”)
+Sources section (even if "pending")
 
 ## 6) Search modes (what users can do)
 ### Mode 1: Quick Search (global)
@@ -142,11 +141,11 @@ power channel
 power mechanism
 policy area
 place
-### Mode 3: “Find Patterns” (future)
+### Mode 3: "Find Patterns" (future)
 Once SQL is in place:
-show clusters: “most common power mechanisms in the Amendment Era”
-network view: “events connecting to preemption and local control”
-“bill genealogy” style linking for repeated language (later)
+show clusters: "most common power mechanisms in the Amendment Era"
+network view: "events connecting to preemption and local control"
+"bill genealogy" style linking for repeated language (later)
 
 ## 7) Ranking logic (how results are ordered)
 Even in a static prototype, we can rank.
@@ -154,14 +153,14 @@ Priority order:
 Exact title match
 Tag match (power_mechanisms, policy areas, places)
 Section match (user filters)
-Recency (for “Updates” and modern topics)
-“Hub score” (pages with more inbound links rank higher)
+Recency (for "Updates" and modern topics)
+"Hub score" (pages with more inbound links rank higher)
 Later, in SQL:
 full-text ranking (tsvector)
 popularity (clicks) if you choose, but not required
 
 ## 8) Auto-generated navigation pages (critical)
-To feel “first-class,” the site should generate:
+To feel "first-class," the site should generate:
 ### Tag index pages
 /tags/power_mechanisms/preemption
 /tags/policy_areas/education
@@ -178,7 +177,7 @@ key communities
 event list
 These can be static now, dynamic later.
 
-## 9) The “Cross-link engine” (how we do it now vs later)
+## 9) The "Cross-link engine" (how we do it now vs later)
 ### Now (Markdown prototype)
 we store frontmatter tags
 build-time index compiles JSON of pages and their metadata
@@ -192,7 +191,7 @@ optional vector search
 relationship traversal queries
 Important: The UI stays the same.
 
-## 10) “Definition-first tags” (adds moral clarity without editorializing)
+## 10) "Definition-first tags" (adds moral clarity without editorializing)
 For every power mechanism and policy area, we create a short definition page.
 Example:
 power/mechanisms/procedural_supremacy.md

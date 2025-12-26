@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:sources
 ---
-
 ---
 title: "Claims and Evidence"
 section: "Sources"
@@ -37,9 +36,9 @@ Claims are the atomic unit of historical accountability.
 
 ## Examples of Claims
 
-- “The Arkansas Constitution of 1874 weakened executive authority.”
-- “Black male suffrage was expanded under the 1868 Constitution.”
-- “Procedural barriers increased for citizen initiatives after 2000.”
+- "The Arkansas Constitution of 1874 weakened executive authority."
+- "Black male suffrage was expanded under the 1868 Constitution."
+- "Procedural barriers increased for citizen initiatives after 2000."
 
 Each of these claims must be supported by evidence.
 

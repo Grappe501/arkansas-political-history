@@ -4,8 +4,7 @@ description: "\\# Core Principles \u00e2\u20ac\u201d Arkansas Political History 
 tags:
   - migration:uncategorized
 ---
-
-\# Core Principles â€” Arkansas Political History Project
+\# Core Principles â€" Arkansas Political History Project
 
 \## 1. History as Infrastructure
 

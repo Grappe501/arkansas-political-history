@@ -1,37 +1,33 @@
 ---
-title: "Decision_ Frame the 1874 Constitution as Structural Counter-Revolution"
-description: "\\# Decision: Frame the 1874 Constitution as Structural Counter-Revolution"
+title: "Decision: Frame the 1874 Constitution as Structural Counter-Revolution"
+description: "Analyze the 1874 Constitution as a deliberate counter-revolution designed to entrench elite control and resist reform."
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Decision"
+status: "Published"
+date: "2025-04-01"
 ---
+# Decision: Frame the 1874 Constitution as Structural Counter-Revolution
 
-\# Decision: Frame the 1874 Constitution as Structural Counter-Revolution
-
-\## Date
-
+## Date
 2025-04-01
 
-\## Context
+## Context
+The 1874 Constitution replaced the Reconstruction framework and remains Arkansas' governing document.
 
-The 1874 Constitution replaced the Reconstruction framework and remains Arkansasâ€™ governing document.
-
-\## Decision
-
+## Decision
 Analyze the 1874 Constitution as a deliberate counter-revolution designed to entrench elite control and resist reform.
 
-\## Alternatives Considered
+## Alternatives Considered
+- Treat as neutral modernization (rejected)
+- Treat as purely reactionary rhetoric (rejected)
 
-\- Treat as neutral modernization (rejected)
+## Consequences
+- Provides explanatory power for modern legislative dominance.
+- Grounds contemporary reform debates in historical structure.
 
-\- Treat as purely reactionary rhetoric (rejected)
-
-\## Consequences
-
-\- Provides explanatory power for modern legislative dominance.
-
-\- Grounds contemporary reform debates in historical structure.
-
-\## Revisit Conditions
-
+## Revisit Conditions
 Only if evidence suggests reform intent outweighed power-entrenchment goals.
+

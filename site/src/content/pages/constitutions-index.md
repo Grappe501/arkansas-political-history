@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:pages
 ---
-
 ---
 
 title: "Arkansas Constitutions"
@@ -18,7 +17,7 @@ status: "Active"
 
 \# The Arkansas Constitutions
 
-Arkansas has not had one constitution, but several â€” each reflecting the political conditions, power struggles, and exclusions of its time.
+Arkansas has not had one constitution, but several â€" each reflecting the political conditions, power struggles, and exclusions of its time.
 
 These documents are not merely legal texts.
 
@@ -30,7 +29,7 @@ This section documents each constitution as a \*\*power architecture\*\*, linkin
 
 \## Constitutional Arc
 
-\### Territorial Governance (1803â€“1836)
+\### Territorial Governance (1803â€"1836)
 
 Federal control, appointed authority, and exclusion as the norm.
 
@@ -44,7 +43,7 @@ A continuity document used to legitimize secession and preserve hierarchy.
 
 \### Constitution of 1864
 
-A wartime bridge under Union occupation â€” abolition without equality.
+A wartime bridge under Union occupation â€" abolition without equality.
 
 \### Constitution of 1868
 
@@ -56,7 +55,7 @@ A structural counter-revolution designed to entrench elite control and resist re
 
 \*This constitution remains in force today.\*
 
-\### Amendment Era (1874â€“Present)
+\### Amendment Era (1874â€"Present)
 
 Change constrained through procedure, litigation, and gatekeeping.
 
@@ -74,4 +73,4 @@ Each constitution page includes:
 
 \- and long-term impact.
 
-\[Begin with Territorial Governance â†’\]
+\[Begin with Territorial Governance â†'\]

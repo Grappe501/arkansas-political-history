@@ -4,11 +4,13 @@ description: "Arkansas became a state in 1836 amid rapid westward expansion, Ind
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Constitution"
+status: "Published"
 ---
+# Arkansas Constitution of 1836
 
-\# Arkansas Constitution of 1836
-
-\## Context
+## Context
 
 Arkansas became a state in 1836 amid rapid westward expansion, Indigenous removal, and the expansion of slavery.
 
@@ -16,84 +18,67 @@ The Constitution of 1836 reflected the priorities of white male settlers, landow
 
 ---
 
-\## Drafting Conditions
+## Drafting Conditions
 
-\- Delegates were white male property holders.
-
-\- Enslaved people had no voice.
-
-\- Indigenous nations were forcibly removed or ignored.
-
-\- Federal approval was required for statehood.
+- Delegates were white male property holders.
+- Enslaved people had no voice.
+- Indigenous nations were forcibly removed or ignored.
+- Federal approval was required for statehood.
 
 ---
 
-\## Core Features
+## Core Features
 
-\### Government Structure
+### Government Structure
 
-\- Bicameral legislature
+- Bicameral legislature
+- Elected governor with limited power compared to legislature
+- Judiciary established but constrained
 
-\- Elected governor with limited power compared to legislature
+### Legislature
 
-\- Judiciary established but constrained
+- Dominant branch of government
+- Controlled taxation, spending, and lawmaking
+- County-based representation advantaged rural elites
 
-\### Legislature
+### Executive
 
-\- Dominant branch of government
-
-\- Controlled taxation, spending, and lawmaking
-
-\- County-based representation advantaged rural elites
-
-\### Executive
-
-\- Weak governor by design
-
-\- Reflects distrust of centralized executive power
+- Weak governor by design
+- Reflects distrust of centralized executive power
 
 ---
 
-\## Slavery and Race
+## Slavery and Race
 
-\- Slavery explicitly protected.
-
-\- Enslaved people treated as property.
-
-\- Free Black residency heavily restricted.
-
-Race was not incidentalâ€”it was foundational.
+- Slavery explicitly protected.
+- Enslaved people treated as property.
+- Free Black residency heavily restricted.
+Race was not incidental-it was foundational.
 
 ---
 
-\## Voting and Representation
+## Voting and Representation
 
-\- Voting limited to white male citizens.
-
-\- Property and residency requirements applied.
-
-\- No mechanisms for broad democratic participation.
+- Voting limited to white male citizens.
+- Property and residency requirements applied.
+- No mechanisms for broad democratic participation.
 
 ---
 
-\## Power Analysis
+## Power Analysis
 
 The 1836 Constitution:
 
-\- Concentrated power in the legislature.
-
-\- Protected economic elites.
-
-\- Embedded racial hierarchy into law.
-
-\- Created a political system resistant to popular reform.
+- Concentrated power in the legislature.
+- Protected economic elites.
+- Embedded racial hierarchy into law.
+- Created a political system resistant to popular reform.
 
 ---
 
-\## Long-Term Impact
+## Long-Term Impact
 
-\- Set patterns of legislative dominance.
+- Set patterns of legislative dominance.
+- Normalized exclusion as constitutional.
+- Established governance structures later exploited to suppress participation.
 
-\- Normalized exclusion as constitutional.
-
-\- Established governance structures later exploited to suppress participation.

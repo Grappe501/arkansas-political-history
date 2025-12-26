@@ -6,7 +6,6 @@ tags:
   - section:power
   - module:power
 ---
-
 ---
 
 title: "Narrative"
@@ -19,7 +18,7 @@ channel: "Narrative"
 
 \# Narrative and Legitimacy
 
-Power requires consent â€” or at least acceptance.
+Power requires consent â€" or at least acceptance.
 
 Narratives shape:
 

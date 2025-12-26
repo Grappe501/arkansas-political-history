@@ -4,10 +4,9 @@ description: "\\# Stand Up Arkansas \u00e2\u20ac\u201d The People\u00e2\u20ac\u2
 tags:
   - migration:uncategorized
 ---
-
 \# netlify.toml
 
-\# Stand Up Arkansas â€” The Peopleâ€™s Political History
+\# Stand Up Arkansas â€" The Peopleâ€™s Political History
 
 \# SvelteKit + adapter-netlify
 

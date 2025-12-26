@@ -6,7 +6,6 @@ tags:
   - section:power
   - module:power
 ---
-
 ---
 
 title: "Power in Arkansas"
@@ -29,7 +28,7 @@ They are produced by \*\*structures\*\*, \*\*procedures\*\*, and \*\*relationshi
 
 \- and how resistance is managed.
 
-This section explains how power operates in Arkansas â€” not through personalities alone, but through systems that persist across generations.
+This section explains how power operates in Arkansas â€" not through personalities alone, but through systems that persist across generations.
 
 These frameworks are designed to help readers interpret constitutions, laws, elections, court decisions, and community outcomes with clarity.
 
@@ -39,17 +38,17 @@ These frameworks are designed to help readers interpret constitutions, laws, ele
 
 Power in Arkansas operates primarily through six interlocking channels:
 
-1\. \*\*Rules\*\* â€” constitutions, statutes, and procedures
+1\. \*\*Rules\*\* â€" constitutions, statutes, and procedures
 
-2\. \*\*Gatekeepers\*\* â€” committees, offices, and appointment power
+2\. \*\*Gatekeepers\*\* â€" committees, offices, and appointment power
 
-3\. \*\*Money\*\* â€” funding, contracts, and economic leverage
+3\. \*\*Money\*\* â€" funding, contracts, and economic leverage
 
-4\. \*\*Courts\*\* â€” interpretation, enforcement, and delay
+4\. \*\*Courts\*\* â€" interpretation, enforcement, and delay
 
-5\. \*\*Geography\*\* â€” districts, boundaries, and representation
+5\. \*\*Geography\*\* â€" districts, boundaries, and representation
 
-6\. \*\*Narrative\*\* â€” legitimacy, fear, and public consent
+6\. \*\*Narrative\*\* â€" legitimacy, fear, and public consent
 
 Each channel is documented below, with historical context and modern examples.
 

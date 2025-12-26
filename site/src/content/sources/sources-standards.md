@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:sources
 ---
-
 ---
 
 title: "Evidence Standards"
@@ -48,7 +47,7 @@ Single-source claims are labeled accordingly.
 
 Institutional authority does not substitute for evidence.
 
-Official records are documented â€” and questioned when appropriate.
+Official records are documented â€" and questioned when appropriate.
 
 ---
 

@@ -4,7 +4,6 @@ description: "Policy areas group decisions by \\*\\*what aspect of life they aff
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Policy Areas"
@@ -41,4 +40,4 @@ Each policy area page includes:
 
 \- and links to constitutions, events, and community impacts.
 
-Policy areas are analytical tools â€” not advocacy platforms.
+Policy areas are analytical tools â€" not advocacy platforms.

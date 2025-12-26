@@ -6,7 +6,6 @@ tags:
   - section:timeline
   - type:era
 ---
-
 ---
 
 title: "Era Name"
@@ -15,7 +14,7 @@ section: "Timeline"
 
 era: "Era Name"
 
-date_range: "YYYYâ€“YYYY"
+date_range: "YYYYâ€"YYYY"
 
 status: "Template"
 
@@ -23,7 +22,7 @@ status: "Template"
 
 \# Era Name
 
-\## Date Range: YYYYâ€“YYYY
+\## Date Range: YYYYâ€"YYYY
 
 \### Era Overview
 
@@ -113,4 +112,4 @@ This era ended due to:
 
 \- or procedural consolidation.
 
-\[Continue to Next Era â†’\]
+\[Continue to Next Era â†'\]

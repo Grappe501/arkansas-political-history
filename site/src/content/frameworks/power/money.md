@@ -6,7 +6,6 @@ tags:
   - section:power
   - module:power
 ---
-
 ---
 
 title: "Money"
@@ -19,7 +18,7 @@ channel: "Money"
 
 \# Money and Influence
 
-Money does not simply support political outcomes â€” it \*\*structures possibility\*\*.
+Money does not simply support political outcomes â€" it \*\*structures possibility\*\*.
 
 In Arkansas, economic power often determines:
 

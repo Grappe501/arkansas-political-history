@@ -4,7 +4,6 @@ description: "All contributions follow a documented process."
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Contribution Process"

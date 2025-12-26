@@ -4,7 +4,6 @@ description: "Judicial delay occurs when prolonged legal processes functionally 
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Judicial Delay"

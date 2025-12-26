@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:legislative
 ---
-
 ---
 
 title: "How a Bill Becomes Law in Arkansas"
@@ -18,7 +17,7 @@ section: "Legislature"
 
 This section outlines the formal steps a bill follows in the Arkansas General Assembly.
 
-Formal steps matter â€” but informal discretion often matters more.
+Formal steps matter â€" but informal discretion often matters more.
 
 ---
 

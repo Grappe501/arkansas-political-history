@@ -4,7 +4,6 @@ description: "Executive weakening refers to the deliberate reduction of executiv
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Executive Weakening"

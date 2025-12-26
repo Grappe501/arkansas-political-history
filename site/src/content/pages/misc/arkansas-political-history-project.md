@@ -4,15 +4,14 @@ description: "Established the foundational direction for the Arkansas Political 
 tags:
   - migration:uncategorized
 ---
-
 # Arkansas Political History Project
-## Daily Build Log — 2025-03-26
+## Daily Build Log - 2025-03-26
 
 ### 1. What We Worked On Today
 Established the foundational direction for the Arkansas Political History Project.
 Defined the project as a long-term, evidence-based historical system rather than a traditional website.
 Outlined a modular architecture prioritizing provenance, claims-based knowledge, and additive history.
-Decided to build an externalized “Brain of the Build” using versioned markdown files as the project’s cognitive memory.
+Decided to build an externalized "Brain of the Build" using versioned markdown files as the project's cognitive memory.
 
 ### 2. New Decisions Made
 - Decision: Build a markdown-based external memory system for the entire project.
@@ -22,7 +21,7 @@ Decided to build an externalized “Brain of the Build” using versioned markdo
 - Confidence Level: High.
 
 ### 3. New Concepts / Frameworks Introduced
-- “Brain of the Build”: A living, versioned markdown archive serving as the project’s cognitive system.
+- "Brain of the Build": A living, versioned markdown archive serving as the project's cognitive system.
 - Additive cognition: New understanding accumulates without erasing prior thinking.
 - Claims-based history as the core organizing principle.
 

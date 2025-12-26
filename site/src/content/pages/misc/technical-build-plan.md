@@ -4,14 +4,13 @@ description: "Here\u2019s a technical build plan that matches your goals:"
 tags:
   - migration:uncategorized
 ---
-
-Here’s a technical build plan that matches your goals:
-Prototype fast (Markdown-driven, “museum-grade” UI)
+Here's a technical build plan that matches your goals:
+Prototype fast (Markdown-driven, "museum-grade" UI)
 Deploy on Netlify
 Scale indefinitely
 Migrate to SQL/Postgres later without redesigning the site
-Keep your “Brain” as versioned markdown logs
-I’m going to pick the stack and standards so you can just execute.
+Keep your "Brain" as versioned markdown logs
+I'm going to pick the stack and standards so you can just execute.
 
 ## Stack decisions
 ### Frontend + content engine
@@ -142,13 +141,13 @@ power_mechanisms: []
 policy_areas: []
 places: []
 institutions: []
-—
+-
 
 Routing rule:
 file name becomes slug (e.g., constitution_1874.md → /constitution/constitution_1874)
 later we can add an explicit slug: field if you want.
 
-## Build mechanics (how Markdown becomes a “system”)
+## Build mechanics (how Markdown becomes a "system")
 ### 1) Page rendering
 SvelteKit route loads Markdown by slug
 mdsvex renders it into styled content
@@ -168,7 +167,7 @@ Search page filters results client-side.
 ### 4) Tag pages (Phase 1)
 Generate:
 tag index pages (static markdown you already started)
-plus optional auto tag hubs (dynamic pages that list everything tagged “preemption”, “education”, etc.)
+plus optional auto tag hubs (dynamic pages that list everything tagged "preemption", "education", etc.)
 Static now: tag definition pages you wrote
 Dynamic listing: built from the search index
 
@@ -198,7 +197,7 @@ Publish directory: site/build (or .svelte-kit/output depending on adapter)
 Use SvelteKit Netlify adapter:
 @sveltejs/adapter-netlify
 ### 2) Environment variables (later)
-For APIs (Census/BLS) you’ll store keys in Netlify env vars, not in repo.
+For APIs (Census/BLS) you'll store keys in Netlify env vars, not in repo.
 ### 3) Preview deploys
 Netlify auto-builds every branch → you get staging URLs to review changes.
 
@@ -219,7 +218,7 @@ retrieval date
  (from provenance metadata)
 
 ## Phase 2 migration to SQL (without redesign)
-When you’re ready:
+When you're ready:
 ### Postgres tables (minimum)
 place
 indicator
@@ -252,7 +251,7 @@ SvelteKit + mdsvex rendering for Markdown pages
 Global layout + sidebar system
 Constitution pages render + navigation works
 Search index builds + basic search UI works
-### Week 2: “First class” polish
+### Week 2: "First class" polish
 Typography + spacing system
 MetadataBar + tag click-through
 Dynamic tag hub pages (list all pages tagged X)

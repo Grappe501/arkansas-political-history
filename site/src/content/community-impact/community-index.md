@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:community-impact
 ---
-
 ---
 title: "Community Impact"
 section: "Community"
@@ -27,7 +26,7 @@ This section documents how political decisions in Arkansas have shaped communiti
 
 ---
 
-## What We Mean by “Community”
+## What We Mean by "Community"
 
 In this archive, a community may be defined by:
 - geography (county, city, neighborhood, school district),

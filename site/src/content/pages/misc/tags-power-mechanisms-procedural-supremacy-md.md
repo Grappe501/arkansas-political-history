@@ -4,7 +4,6 @@ description: "Procedural supremacy occurs when control over \\*process\\* determ
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Procedural Supremacy"

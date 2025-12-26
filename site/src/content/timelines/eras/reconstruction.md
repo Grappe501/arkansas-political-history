@@ -6,7 +6,6 @@ tags:
   - power:constitution
   - power:enforcement
 ---
-
 This is a starter era page so the timeline routing and indexing can be tested.
 
-Next we will migrate your prototype “Reconstruction era” content from the docx package into this file structure.
+Next we will migrate your prototype "Reconstruction era" content from the docx package into this file structure.

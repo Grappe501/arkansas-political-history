@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:legislative
 ---
-
 ---
 title: "Gatekeeping in the Legislative Process"
 section: "Legislature"
@@ -55,7 +54,7 @@ Procedural rules are enforceable power.
 Not all power is written down.
 
 Norms determine:
-- which bills “deserve” hearings,
+- which bills "deserve" hearings,
 - whose testimony matters,
 - and how dissent is handled.
 

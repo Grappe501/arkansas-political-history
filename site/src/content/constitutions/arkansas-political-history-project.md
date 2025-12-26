@@ -4,10 +4,12 @@ description: "Documented the Arkansas Constitution of 1874."
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Log"
+status: "Published"
 ---
-
 # Arkansas Political History Project
-## Daily Build Log — 2025-04-01
+## Daily Build Log - 2025-04-01
 
 ### 1. What We Worked On Today
 Documented the Arkansas Constitution of 1874.
@@ -22,7 +24,7 @@ Connected constitutional design choices to modern governance dynamics.
 - Confidence Level: Very High.
 
 ### 3. New Concepts / Frameworks Introduced
-- “Structural counter-revolution.”
+- "Structural counter-revolution."
 - Procedural power as a substitute for overt exclusion.
 - Weak executive as an intentional governance strategy.
 
@@ -31,19 +33,19 @@ Clarified that many modern governance frustrations are not accidental but consti
 
 ### 5. Open Questions Identified
 - Which amendment rules have most effectively blocked reform?
-- How often “local control” rhetoric masked elite consolidation.
+- How often "local control" rhetoric masked elite consolidation.
 
 ### 6. Risks / Watchouts
 - Risk of modern readers assuming dysfunction is accidental.
 - Need to clearly distinguish constitutional structure from later statutory abuse.
 
 ### 7. Action Items for Next Session
-- Begin Amendment Era analysis (1874–present).
+- Begin Amendment Era analysis (1874-present).
 - Map amendment attempts that succeeded vs. failed.
 - Identify recurring reform choke points.
 
 ### 8. Source Notes
-Primary sources to be added: 1874 constitutional text, convention debates, Brooks–Baxter War records.
+Primary sources to be added: 1874 constitutional text, convention debates, Brooks-Baxter War records.
 
 ### 9. Meta Notes
 This session completes the core constitutional arc. Everything after this is struggle within a locked system.

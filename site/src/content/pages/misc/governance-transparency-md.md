@@ -4,7 +4,6 @@ description: "This archive is accountable to the public."
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Transparency & Accountability"

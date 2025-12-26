@@ -4,7 +4,6 @@ description: "Disenfranchisement refers to the removal or dilution of political 
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Disenfranchisement"

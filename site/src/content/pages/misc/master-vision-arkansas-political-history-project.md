@@ -4,10 +4,9 @@ description: "\\# Master Vision \u00e2\u20ac\u201d Arkansas Political History Pr
 tags:
   - migration:uncategorized
 ---
+\# Master Vision â€" Arkansas Political History Project
 
-\# Master Vision â€” Arkansas Political History Project
-
-\## Original Vision â€” 2025-03-26
+\## Original Vision â€" 2025-03-26
 
 The Arkansas Political History Project is a comprehensive, evidence-based, and publicly accessible historical system designed to document, analyze, and understand the full political evolution of the State of Arkansas.
 
@@ -25,7 +24,7 @@ This project is not merely a website or archive. It is a living historical engin
 
 The project will collect, preserve, and interconnect primary sources, secondary analysis, structured data, and narrative interpretation in a transparent and verifiable way. Every claim must be traceable to evidence. Conflicting accounts will be preserved rather than erased.
 
-The ultimate goal is to create the most comprehensive political history database ever assembled for Arkansasâ€”one that functions as:
+The ultimate goal is to create the most comprehensive political history database ever assembled for Arkansasâ€"one that functions as:
 
 \- a public educational resource,
 

@@ -4,9 +4,8 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
 # Place Registry
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## Purpose
 This document defines how geographic places are identified, named, and joined across datasets.
@@ -47,7 +46,7 @@ Consistency here determines whether data integration succeeds or fails.
 
 - Use official Census names for identifiers.
 - Display names may use common names.
-- Avoid abbreviations unless standardized (e.g., “St.”).
+- Avoid abbreviations unless standardized (e.g., "St.").
 
 ---
 

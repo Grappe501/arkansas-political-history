@@ -4,10 +4,9 @@ description: "Stand Up Arkansas \u00e2\u20ac\u201d The People\u00e2\u20ac\u2122s
 tags:
   - migration:uncategorized
 ---
-
 \# Taxonomy Registry
 
-Stand Up Arkansas â€” The Peopleâ€™s Political History
+Stand Up Arkansas â€" The Peopleâ€™s Political History
 
 \## Purpose
 
@@ -33,67 +32,67 @@ Each era has:
 
 label: Indigenous Governance
 
-date_range: Pre-Contactâ€“1680s
+date_range: Pre-Contactâ€"1680s
 
 \- era_id: colonial_contestation
 
 label: Colonial Contestation
 
-date_range: 1680sâ€“1803
+date_range: 1680sâ€"1803
 
 \- era_id: territorial_rule
 
 label: Territorial Rule
 
-date_range: 1803â€“1836
+date_range: 1803â€"1836
 
 \- era_id: early_statehood_slaveholding_republic
 
 label: Early Statehood & Slaveholding Republic
 
-date_range: 1836â€“1861
+date_range: 1836â€"1861
 
 \- era_id: civil_war_collapse
 
 label: Civil War & Constitutional Collapse
 
-date_range: 1861â€“1865
+date_range: 1861â€"1865
 
 \- era_id: reconstruction_federal_intervention
 
 label: Reconstruction & Federal Intervention
 
-date_range: 1865â€“1874
+date_range: 1865â€"1874
 
 \- era_id: redemption_jim_crow
 
 label: Redemption & Jim Crow Consolidation
 
-date_range: 1874â€“1940s
+date_range: 1874â€"1940s
 
 \- era_id: federal_expansion_centralization
 
 label: Federal Expansion & Centralization
 
-date_range: 1930sâ€“1960s
+date_range: 1930sâ€"1960s
 
 \- era_id: civil_rights_conflict
 
 label: Civil Rights Conflict
 
-date_range: 1950sâ€“1970s
+date_range: 1950sâ€"1970s
 
 \- era_id: conservative_realignment
 
 label: Conservative Realignment
 
-date_range: 1980sâ€“2000s
+date_range: 1980sâ€"2000s
 
 \- era_id: one_party_procedural_power
 
 label: One-Party Rule & Procedural Power
 
-date_range: 2010sâ€“Present
+date_range: 2010sâ€"Present
 
 ---
 

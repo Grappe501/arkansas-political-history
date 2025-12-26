@@ -4,9 +4,8 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
 # Visual Layout & Interaction Specification
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## 1) Design Philosophy (Non-Negotiable)
 ### Core feeling
@@ -175,13 +174,13 @@ This builds trust instantly.
 Infinite scroll
 Auto-playing anything
 Gamification
-“Engagement” tricks
+"Engagement" tricks
 Emotional imagery
 ### Always do this
 Make structure visible
 Show dates
 Show evolution
-Respect the reader’s intelligence
+Respect the reader's intelligence
 
 ## 11) Accessibility & Ethics
 Keyboard navigable
@@ -198,7 +197,7 @@ sidebars map to relationships
 metadata maps to tables
 sources map to provenance records
 The UI does not change when the backend does.
-That’s intentional.
+That's intentional.
 
 ## 13) What this gives Stand Up Arkansas
 This design:

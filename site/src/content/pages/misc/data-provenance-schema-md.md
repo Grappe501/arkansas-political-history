@@ -4,9 +4,8 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
 # Provenance Schema
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## Purpose
 This document defines how data sources are tracked, audited, and referenced.
@@ -19,7 +18,7 @@ Every number must be explainable.
 
 ### source_name
 Plain-language name of source system
-Example: "U.S. Census Bureau — ACS 5-Year"
+Example: "U.S. Census Bureau - ACS 5-Year"
 
 ---
 
@@ -54,7 +53,7 @@ If file-based:
 
 ### data_vintage
 The reference period of the data
-Example: "ACS 2019–2023"
+Example: "ACS 2019-2023"
 
 ---
 
@@ -91,7 +90,7 @@ Known caveats, suppression, sampling error, or missing data.
 For every data point shown publicly:
 - Show source name
 - Show data vintage
-- Show retrieval date (or “last updated”)
+- Show retrieval date (or "last updated")
 - Link to source documentation
 
 ---

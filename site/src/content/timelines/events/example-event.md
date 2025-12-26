@@ -6,7 +6,6 @@ tags:
   - section:timeline
   - type:event
 ---
-
 ---
 
 title: "Adoption of the Arkansas Constitution of 1868"

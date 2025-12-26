@@ -4,8 +4,7 @@ description: "\\# Non-Negotiables \u00e2\u20ac\u201d Arkansas Political History 
 tags:
   - migration:uncategorized
 ---
-
-\# Non-Negotiables â€” Arkansas Political History Project
+\# Non-Negotiables â€" Arkansas Political History Project
 
 \## 1. Evidence Over Narrative
 
@@ -17,7 +16,7 @@ Nothing is deleted. New information may supersede earlier understanding, but pri
 
 \## 3. Transparency of Uncertainty
 
-Conflicting accounts, gaps in records, and ambiguous evidence must be documentedâ€”not smoothed over.
+Conflicting accounts, gaps in records, and ambiguous evidence must be documentedâ€"not smoothed over.
 
 \## 4. Separation of Fact and Analysis
 
@@ -25,7 +24,7 @@ Primary facts, interpretive analysis, and opinionated conclusions must be struct
 
 \## 5. Power Is a First-Class Concept
 
-The system must explicitly track how power operatesâ€”through rules, money, institutions, courts, geography, and narrative.
+The system must explicitly track how power operatesâ€"through rules, money, institutions, courts, geography, and narrative.
 
 \## 6. Community Impact Matters
 

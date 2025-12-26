@@ -4,7 +4,6 @@ description: "Power mechanisms describe the \\*specific ways\\* authority is exe
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Power Mechanisms"

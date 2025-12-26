@@ -23,6 +23,12 @@ function normalizeTags(v) {
 	return [];
 }
 
+function safeReadUtf8(file) {
+	// If any weird bytes exist, replace invalid sequences safely.
+	const buf = fs.readFileSync(file);
+	return buf.toString('utf8');
+}
+
 function indexFolder(section, folderRel) {
 	const folderAbs = path.join(CONTENT_ROOT, folderRel);
 	if (!fs.existsSync(folderAbs)) {
@@ -34,7 +40,7 @@ function indexFolder(section, folderRel) {
 
 	return files.map((rel) => {
 		const full = path.join(folderAbs, rel);
-		const raw = fs.readFileSync(full, 'utf8');
+		const raw = safeReadUtf8(full);
 		const parsed = matter(raw);
 		const meta = parsed.data ?? {};
 

@@ -4,7 +4,6 @@ description: A framework for seeing the machine — rules, courts, money, narrat
 tags:
   - module:power
 ---
-
 This is the Power framework module.
 
 Next we will migrate your prototype Power pages into:

@@ -4,7 +4,6 @@ description: "This policy area includes laws and practices affecting work, wages
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Labor & Economy"

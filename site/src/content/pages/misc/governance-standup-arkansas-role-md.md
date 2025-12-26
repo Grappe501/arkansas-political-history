@@ -4,7 +4,6 @@ description: "Stand Up Arkansas serves as the steward of this archive."
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Role of Stand Up Arkansas"
@@ -31,4 +30,4 @@ Stand Up Arkansas does not claim ownership of historical truth.
 
 It claims responsibility for \*\*process, integrity, and continuity\*\*.
 
-This archive exists to strengthen democratic understanding â€” not to replace it.
+This archive exists to strengthen democratic understanding â€" not to replace it.

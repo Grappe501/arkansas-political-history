@@ -4,9 +4,11 @@ description: "This document defines the primary political eras of Arkansas histo
 tags:
   - migration:scope
   - section:constitutions
+section: "Constitutions"
+type: "Framework"
+status: "Published"
 ---
-
-# Arkansas Political Eras — Foundational Periodization
+# Arkansas Political Eras - Foundational Periodization
 
 ## Purpose of This Document
 This document defines the primary political eras of Arkansas history as an organizing framework for research, data modeling, and narrative construction.
@@ -22,12 +24,12 @@ Era boundaries may be refined as research deepens, but this initial structure pr
 
 ## Era 0: Indigenous Governance (Pre-Contact to 1680s)
 ### Approximate Dates
-Prehistory – late 1600s
+Prehistory - late 1600s
 
 ### Core Characteristics
 - Sovereign Indigenous nations with their own governance systems
 - Political authority rooted in kinship, land stewardship, trade, and diplomacy
-- No “state” in the European sense, but complex political systems
+- No "state" in the European sense, but complex political systems
 
 ### Key Power Structures
 - Tribal councils and leadership
@@ -40,7 +42,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 1: Colonial Contestation & Early Settlement (1680s–1803)
+## Era 1: Colonial Contestation & Early Settlement (1680s-1803)
 ### Core Characteristics
 - French and Spanish colonial claims
 - Military governance, trading posts, missionary influence
@@ -53,7 +55,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 2: Louisiana Purchase & Territorial Rule (1803–1836)
+## Era 2: Louisiana Purchase & Territorial Rule (1803-1836)
 ### Core Characteristics
 - Transfer to U.S. federal authority
 - Arkansas Territory governed by appointed officials
@@ -66,7 +68,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 3: Early Statehood & Slaveholding Republic (1836–1861)
+## Era 3: Early Statehood & Slaveholding Republic (1836-1861)
 ### Core Characteristics
 - First Arkansas Constitution (1836)
 - Plantation economy and enslaved labor
@@ -79,7 +81,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 4: Secession, Civil War & Collapse (1861–1865)
+## Era 4: Secession, Civil War & Collapse (1861-1865)
 ### Core Characteristics
 - Secession and Confederate alignment
 - Parallel governments and constitutional breakdown
@@ -91,7 +93,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 5: Reconstruction & Federal Intervention (1865–1874)
+## Era 5: Reconstruction & Federal Intervention (1865-1874)
 ### Core Characteristics
 - Abolition of slavery
 - Federal oversight and constitutional rewrites
@@ -104,7 +106,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 6: Redemption & Jim Crow Consolidation (1874–1940s)
+## Era 6: Redemption & Jim Crow Consolidation (1874-1940s)
 ### Core Characteristics
 - 1874 Constitution
 - Systematic disenfranchisement
@@ -117,7 +119,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 7: New Deal, Industrial Shift & Centralization (1930s–1960s)
+## Era 7: New Deal, Industrial Shift & Centralization (1930s-1960s)
 ### Core Characteristics
 - Federal programs reshape state governance
 - Expansion of administrative state
@@ -129,7 +131,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 8: Civil Rights Conflict & Federal Enforcement (1950s–1970s)
+## Era 8: Civil Rights Conflict & Federal Enforcement (1950s-1970s)
 ### Core Characteristics
 - School desegregation battles
 - Court-ordered reforms
@@ -141,7 +143,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 9: Conservative Realignment & Neoliberal Governance (1980s–2000s)
+## Era 9: Conservative Realignment & Neoliberal Governance (1980s-2000s)
 ### Core Characteristics
 - Shift toward Republican dominance
 - Privatization and deregulation
@@ -153,7 +155,7 @@ Sources will often be anthropological, archaeological, oral, and colonial observ
 
 ---
 
-## Era 10: One-Party Rule & Power Entrenchment (2010s–Present)
+## Era 10: One-Party Rule & Power Entrenchment (2010s-Present)
 ### Core Characteristics
 - Supermajority governance
 - Preemption of local authority

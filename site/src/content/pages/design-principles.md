@@ -5,8 +5,7 @@ tags:
   - migration:prototype
   - section:pages
 ---
-
-\# Design Principles â€” Stand Up Arkansas Civic Archive
+\# Design Principles â€" Stand Up Arkansas Civic Archive
 
 \## 1. Authority Through Clarity
 
@@ -18,7 +17,7 @@ This should feel archival, not fashionable.
 
 \## 3. Structure Over Decoration
 
-Hierarchy, spacing, and typography do the work â€” not icons.
+Hierarchy, spacing, and typography do the work â€" not icons.
 
 \## 4. Accessibility Without Dilution
 

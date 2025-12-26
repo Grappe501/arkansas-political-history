@@ -4,7 +4,6 @@ description: "\\- Type label (Constitution / Era / Event / Framework / Community
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Search Result Card Spec"
@@ -29,7 +28,7 @@ Each result appears as a compact card.
 
 \- Date / date range (if applicable)
 
-\- 1â€“2 line excerpt
+\- 1â€"2 line excerpt
 
 \- Tags row (clickable)
 

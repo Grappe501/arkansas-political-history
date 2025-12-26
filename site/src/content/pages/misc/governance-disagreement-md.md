@@ -4,7 +4,6 @@ description: "title: \"Disagreement & Dispute Resolution\""
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Disagreement & Dispute Resolution"
@@ -17,7 +16,7 @@ section: "Governance"
 
 Disagreement is expected in serious historical work.
 
-This archive treats disagreement as a signal â€” not a threat.
+This archive treats disagreement as a signal â€" not a threat.
 
 ---
 

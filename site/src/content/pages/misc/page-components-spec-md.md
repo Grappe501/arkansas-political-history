@@ -4,10 +4,9 @@ description: "Stand Up Arkansas \u00e2\u20ac\u201d The People\u00e2\u20ac\u2122s
 tags:
   - migration:uncategorized
 ---
-
 \# Page Components Spec
 
-Stand Up Arkansas â€” The Peopleâ€™s Political History
+Stand Up Arkansas â€" The Peopleâ€™s Political History
 
 \## Purpose
 

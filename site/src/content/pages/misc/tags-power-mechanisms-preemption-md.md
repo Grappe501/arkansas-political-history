@@ -4,7 +4,6 @@ description: "Preemption occurs when a higher level of government restricts or o
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Preemption"

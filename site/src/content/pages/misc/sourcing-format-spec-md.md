@@ -4,10 +4,9 @@ description: "Stand Up Arkansas \u00e2\u20ac\u201d The People\u00e2\u20ac\u2122s
 tags:
   - migration:uncategorized
 ---
-
 \# Sourcing Format Spec
 
-Stand Up Arkansas â€” The Peopleâ€™s Political History
+Stand Up Arkansas â€" The Peopleâ€™s Political History
 
 \## Purpose
 
@@ -23,15 +22,15 @@ Use this exact structure:
 
 \### Primary Sources
 
-\- \[Title\] â€” Publisher/Origin, Date (if known). Notes. Link (if available).
+\- \[Title\] â€" Publisher/Origin, Date (if known). Notes. Link (if available).
 
 \### Secondary Sources
 
-\- \[Title\] â€” Author, Publication, Date. Notes. Link (if available).
+\- \[Title\] â€" Author, Publication, Date. Notes. Link (if available).
 
 \### Data Sources (if applicable)
 
-\- \[Dataset Name\] â€” Agency, Vintage. Notes. Link (if available).
+\- \[Dataset Name\] â€" Agency, Vintage. Notes. Link (if available).
 
 \### Notes
 

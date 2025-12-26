@@ -4,7 +4,6 @@ description: "This archive uses a controlled tag system to connect documents acr
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Tags & Concepts"
@@ -107,4 +106,4 @@ Examples include:
 
 \- Tags are additive and curated.
 
-This system is designed to reveal structure â€” not overwhelm.
+This system is designed to reveal structure â€" not overwhelm.

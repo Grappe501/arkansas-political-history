@@ -6,7 +6,6 @@ tags:
   - section:power
   - module:power
 ---
-
 ---
 
 title: "Geography"

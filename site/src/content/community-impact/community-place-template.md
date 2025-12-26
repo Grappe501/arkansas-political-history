@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:community-impact
 ---
-
 ---
 
 title: "Community Name"

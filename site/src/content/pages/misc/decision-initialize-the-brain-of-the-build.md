@@ -4,17 +4,16 @@ description: "The project\u2019s scope and longevity require a durable system fo
 tags:
   - migration:uncategorized
 ---
-
 # Decision: Initialize the Brain of the Build
 
 ## Date
 2025-03-26
 
 ## Context
-The project’s scope and longevity require a durable system for preserving decisions, reasoning, and evolving understanding.
+The project's scope and longevity require a durable system for preserving decisions, reasoning, and evolving understanding.
 
 ## Decision
-Create a versioned, markdown-based “Brain of the Build” that serves as the authoritative memory of the project.
+Create a versioned, markdown-based "Brain of the Build" that serves as the authoritative memory of the project.
 
 ## Alternatives Considered
 - Wiki-style documentation (rejected due to overwrite risk)

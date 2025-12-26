@@ -4,8 +4,7 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## 1. Purpose
 This spec defines canonical URL routing, slug rules, and redirect behavior for the archive.
@@ -14,7 +13,7 @@ Stable links for decades
 No broken references as content grows
 Deterministic mapping from /content/**.md → site routes
 Clear rules for renames, moves, and version evolution
-Hard rule: once published, a page’s canonical URL should never change without a redirect.
+Hard rule: once published, a page's canonical URL should never change without a redirect.
 
 ## 2. Canonical routing model
 ### 2.1 Sections map to top-level routes
@@ -31,7 +30,7 @@ Governance → /governance
 Search → /search
 ### 2.2 Content directory maps to route base
 Each Markdown file lives under:
-/content/<routeBase>/...
+/content/&lt;routeBase&gt;/...
 Example:
 /content/constitutions/index.md → /constitution
 /content/constitutions/006_constitution_1874.md → /constitution/006-constitution-1874
@@ -71,7 +70,7 @@ Examples:
 /content/timeline/index.md → /timeline
 /content/timeline/eras/index.md → /timeline/eras
 
-## 4. Optional explicit slugs (recommended for “forever pages”)
+## 4. Optional explicit slugs (recommended for "forever pages")
 slug: "constitution/1874"
 
 Rules:
@@ -79,7 +78,7 @@ Explicit slugs override file-based slugs.
 Must not begin with / (store as relative path).
 Must be unique across the site.
 If used, create a redirect from the old file-based URL if it was ever deployed.
-Recommendation: Use explicit slugs for long-lived “pillar” pages once stable, e.g.:
+Recommendation: Use explicit slugs for long-lived "pillar" pages once stable, e.g.:
 constitution/1874
 power/rules
 tags/policy-areas/education
@@ -87,32 +86,32 @@ tags/policy-areas/education
 ## 5. Route patterns by section
 ### Constitution
 Index: /constitution
-Pages: /constitution/<slug>
+Pages: /constitution/&lt;slug&gt;
 ### Timeline
 Index: /timeline
 Eras index: /timeline/eras
-Era pages: /timeline/eras/<slug>
+Era pages: /timeline/eras/&lt;slug&gt;
 Events index: /timeline/events
-Event pages: /timeline/events/<slug>
+Event pages: /timeline/events/&lt;slug&gt;
 ### Power
 Index: /power
-Channel pages: /power/<slug>
-Mechanisms (tag definitions): /tags/power_mechanisms/<slug>
+Channel pages: /power/&lt;slug&gt;
+Mechanisms (tag definitions): /tags/power_mechanisms/&lt;slug&gt;
 ### Community
 Index: /community
-Place pages: /community/places/<slug> (recommended)
-Policy impact pages: /community/policy/<slug> (optional later)
+Place pages: /community/places/&lt;slug&gt; (recommended)
+Policy impact pages: /community/policy/&lt;slug&gt; (optional later)
 ### Tags
 Index: /tags
-Category index: /tags/<category>
-Tag definition page: /tags/<category>/<tag>
+Category index: /tags/&lt;category&gt;
+Tag definition page: /tags/&lt;category&gt;/&lt;tag&gt;
 Category route names should be:
 power_mechanisms
 policy_areas
 (later) places, institutions, people
 ### Governance
 Index: /governance
-Pages: /governance/<slug>
+Pages: /governance/&lt;slug&gt;
 
 ## 6. Canonical URL and redirects
 ### 6.1 Canonical URL
@@ -142,7 +141,7 @@ Use site-root paths:
 /constitution/1874
 /timeline/eras/reconstruction
 Avoid relative file links like ../constitutions/....
-### 8.2 “Related Pages” blocks
+### 8.2 "Related Pages" blocks
 Related links should use canonical routes.
 If a link target is unknown yet, use placeholder text without fake URLs.
 
@@ -150,7 +149,7 @@ If a link target is unknown yet, use placeholder text without fake URLs.
 If a page is replaced or merged:
 Keep the original URL alive
 Add a banner at the top:
-“This page has been merged into: [New Page].”
+"This page has been merged into: [New Page]."
 Do not delete public pages without a redirect.
 
 ## 10. Implementation checklist

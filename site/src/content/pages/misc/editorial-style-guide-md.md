@@ -4,9 +4,8 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
 # Editorial Style Guide
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## Purpose
 Prevent tone drift across contributors while preserving moral clarity.
@@ -24,17 +23,17 @@ We document structure and consequence.
 ---
 
 ## Preferred language patterns
-- “This structure had the effect of…”
-- “Enforcement varied by…”
-- “Records indicate…”
-- “This change increased/decreased the ability to…”
+- "This structure had the effect of..."
+- "Enforcement varied by..."
+- "Records indicate..."
+- "This change increased/decreased the ability to..."
 
 ---
 
 ## Avoid
 - sarcasm
 - rhetorical questions
-- labels like “evil,” “corrupt,” “traitor” without evidence
+- labels like "evil," "corrupt," "traitor" without evidence
 - contemporary partisan framing
 
 ---
@@ -42,15 +41,15 @@ We document structure and consequence.
 ## Claims vs Interpretations
 - Put factual claims in declarative sentences.
 - Label interpretation with a lead-in:
-- “Interpretation: …”
-- “Power analysis: …”
-- “One reading of the record suggests…”
+- "Interpretation: ..."
+- "Power analysis: ..."
+- "One reading of the record suggests..."
 
 ---
 
 ## Discussing harm
 - Be direct, not sensational.
-- Prefer: “disenfranchised,” “excluded,” “coerced,” “suppressed”
+- Prefer: "disenfranchised," "excluded," "coerced," "suppressed"
 - Avoid graphic language unless necessary and sourced.
 
 ---

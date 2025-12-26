@@ -4,8 +4,7 @@ description: "Stand Up Arkansas \u2014 The People\u2019s Political History"
 tags:
   - migration:uncategorized
 ---
-
-Stand Up Arkansas — The People’s Political History
+Stand Up Arkansas - The People's Political History
 
 ## 1. Purpose of This Document
 This document defines how content is written, structured, tagged, and maintained across the archive.
@@ -36,10 +35,10 @@ title: ""
 section: ""        # Constitution | Timeline | Power | Community | Legislature | Sources | Tags | Governance
 type: ""           # constitution | era | event | framework | community | policy | explainer | source | governance
 status: ""         # template | draft | active
-—
+-
 
 date: ""           # YYYY or YYYY-MM-DD (events)
-date_range: ""     # YYYY–YYYY (eras, constitutions)
+date_range: ""     # YYYY-YYYY (eras, constitutions)
 era:
 - ""             # one or more era identifiers
 tags:
@@ -71,9 +70,9 @@ Core Features / Provisions
 Power Analysis
 Practical Reality
 Long-Term Impact
-Sources (even if “To be added”)
+Sources (even if "To be added")
 Rules
-Do not summarize text only — analyze structure.
+Do not summarize text only - analyze structure.
 Distinguish clearly between text and enforcement.
 Avoid present-day moral judgment language; use structural analysis.
 
@@ -99,7 +98,7 @@ Related Pages
 Sources
 Rules
 Describe actions before analysis.
-Avoid hindsight framing in “What Happened.”
+Avoid hindsight framing in "What Happened."
 Power analysis must reference at least one power channel or mechanism.
 
 ### D. Power Framework Pages
@@ -149,13 +148,13 @@ Non-partisan
 ### Avoid
 Rhetorical questions
 Sarcasm
-Moralizing adjectives (“evil,” “corrupt”) without evidence
+Moralizing adjectives ("evil," "corrupt") without evidence
 Present-day advocacy language
 ### Prefer
-“This structure resulted in…”
-“This decision had the effect of…”
-“Enforcement varied by…”
-“Historical records indicate…”
+"This structure resulted in..."
+"This decision had the effect of..."
+"Enforcement varied by..."
+"Historical records indicate..."
 
 ## 6. Claims vs. Interpretation
 ### Claims
@@ -170,7 +169,7 @@ Never blur the two.
 
 ## 7. Sources & Citations
 Every page must include a Sources section.
-“Sources pending” is acceptable for drafts.
+"Sources pending" is acceptable for drafts.
 Cite primary sources where possible.
 Secondary sources must be identified as such.
 Conflicting sources must be acknowledged.
@@ -201,6 +200,6 @@ Repeated violations may result in contributor review.
 Standards protect credibility.
 
 ## 12. Final Note
-These standards are not meant to restrict truth —
+These standards are not meant to restrict truth -
 they exist to protect it from distortion, drift, and decay.
 If this document is followed, the archive will remain coherent and trusted for decades.

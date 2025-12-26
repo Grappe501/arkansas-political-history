@@ -4,7 +4,6 @@ description: "Contributors and stewards must disclose:"
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Ethics & Conflicts of Interest"

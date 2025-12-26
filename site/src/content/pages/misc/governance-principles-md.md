@@ -4,7 +4,6 @@ description: "All contributors and stewards of this archive operate under the fo
 tags:
   - migration:uncategorized
 ---
-
 ---
 
 title: "Governing Principles"
@@ -39,7 +38,7 @@ Disagreement is handled through documentation, not suppression.
 
 \## 3. Additive History
 
-Content is added, contextualized, and revised â€” not erased.
+Content is added, contextualized, and revised â€" not erased.
 
 Earlier interpretations remain visible unless demonstrably incorrect.
 

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2025-12-26T17:55:21.597Z",
-  "count": 93,
+  "generatedAt": "2025-12-26T19:16:32.508Z",
+  "count": 90,
   "items": [
     {
       "section": "constitutions",
       "slug": "arkansas-amendment-era",
       "url": "/constitutions/arkansas-amendment-era",
       "title": "Arkansas Amendment Era (1874–Present)",
-      "description": "Since the adoption of the 1874 Constitution, Arkansas has operated under a framework intentionally designed to resist structural change. The Amendment Era is defined by a continuous struggle between:",
+      "description": "Since the adoption of the 1874 Constitution, Arkansas has operated under a framework intentionally designed to resist structural change. The Amendment Era is defined by a continuous struggle between popular efforts to modernize governance and elite efforts to contain or procedurally block reform.",
       "tags": [
         "migration:scope",
         "section:constitutions"
@@ -35,7 +35,7 @@
       "slug": "arkansas-constitution-of-1861",
       "url": "/constitutions/arkansas-constitution-of-1861",
       "title": "Arkansas Constitution of 1861",
-      "description": "\\# Arkansas Constitution of 1861 (Secession Constitution)",
+      "description": "Arkansas Constitution of 1861 (Secession Constitution)",
       "tags": [
         "migration:scope",
         "section:constitutions"
@@ -48,12 +48,9 @@
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1864",
       "url": "/constitutions/arkansas-constitution-of-1864",
-      "title": "Arkansas Constitution of 1864",
-      "description": "\\# Arkansas Constitution of 1864 (Unionist Wartime Constitution)",
-      "tags": [
-        "migration:scope",
-        "section:constitutions"
-      ],
+      "title": "arkansas-constitution-of-1864",
+      "description": "",
+      "tags": [],
       "date": "",
       "era": "",
       "place": ""
@@ -63,7 +60,7 @@
       "slug": "arkansas-constitution-of-1868",
       "url": "/constitutions/arkansas-constitution-of-1868",
       "title": "Arkansas Constitution of 1868",
-      "description": "\\# Arkansas Constitution of 1868 (Reconstruction Constitution)",
+      "description": "Arkansas Constitution of 1868 (Reconstruction Constitution)",
       "tags": [
         "migration:scope",
         "section:constitutions"
@@ -76,12 +73,9 @@
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1874",
       "url": "/constitutions/arkansas-constitution-of-1874",
-      "title": "Arkansas Constitution of 1874 (Redemption Constitution)",
-      "description": "The Arkansas Constitution of 1874 was adopted after the collapse of Reconstruction governments and the reassertion of white elite control—commonly referred to as “Redemption.”",
-      "tags": [
-        "migration:scope",
-        "section:constitutions"
-      ],
+      "title": "arkansas-constitution-of-1874",
+      "description": "",
+      "tags": [],
       "date": "",
       "era": "",
       "place": ""
@@ -91,7 +85,7 @@
       "slug": "arkansas-constitutions-module-overview",
       "url": "/constitutions/arkansas-constitutions-module-overview",
       "title": "Arkansas Constitutions — Module Overview",
-      "description": "\\# Arkansas Constitutions â€” Module Overview",
+      "description": "Arkansas Constitutions — Module Overview",
       "tags": [
         "migration:scope",
         "section:constitutions"
@@ -132,13 +126,13 @@
       "section": "constitutions",
       "slug": "decision-analyze-constitutions-as-power-architecture",
       "url": "/constitutions/decision-analyze-constitutions-as-power-architecture",
-      "title": "Decision_ Analyze Constitutions as Power Architecture",
-      "description": "\\# Decision: Analyze Constitutions as Power Architecture",
+      "title": "Decision: Analyze Constitutions as Power Architecture",
+      "description": "Frame every Arkansas constitution as a designed power architecture reflecting the interests and exclusions of its drafters.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-03-28",
       "era": "",
       "place": ""
     },
@@ -146,13 +140,13 @@
       "section": "constitutions",
       "slug": "decision-classify-the-1861-constitution-as-a-failure-state-constitution",
       "url": "/constitutions/decision-classify-the-1861-constitution-as-a-failure-state-constitution",
-      "title": "Decision_ Classify the 1861 Constitution as a Failure-State Constitution",
-      "description": "\\# Decision: Classify the 1861 Constitution as a Failure-State Constitution",
+      "title": "Decision: Classify the 1861 Constitution as a Failure-State Constitution",
+      "description": "Define the 1861 Constitution as a failure-state constitution produced to preserve elite control amid collapsing institutions.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-03-29",
       "era": "",
       "place": ""
     },
@@ -160,13 +154,13 @@
       "section": "constitutions",
       "slug": "decision-classify-the-1864-constitution-as-an-administrative-bridge",
       "url": "/constitutions/decision-classify-the-1864-constitution-as-an-administrative-bridge",
-      "title": "Decision_ Classify the 1864 Constitution as an Administrative Bridge",
-      "description": "\\# Decision: Classify the 1864 Constitution as an Administrative Bridge",
+      "title": "Decision: Classify the 1864 Constitution as an Administrative Bridge",
+      "description": "Define the 1864 Constitution as an administrative bridge between Confederate collapse and formal Reconstruction.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-03-30",
       "era": "",
       "place": ""
     },
@@ -174,13 +168,13 @@
       "section": "constitutions",
       "slug": "decision-establish-arkansas-political-eras-framework",
       "url": "/constitutions/decision-establish-arkansas-political-eras-framework",
-      "title": "Decision_ Establish Arkansas Political Eras Framework",
-      "description": "\\# Decision: Establish Arkansas Political Eras Framework",
+      "title": "Decision: Establish Arkansas Political Eras Framework",
+      "description": "Define a set of Arkansas political eras based on shifts in power, governance, and institutional structure.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-03-27",
       "era": "",
       "place": ""
     },
@@ -188,13 +182,13 @@
       "section": "constitutions",
       "slug": "decision-frame-the-1868-constitution-as-enforced-democratic-realignment",
       "url": "/constitutions/decision-frame-the-1868-constitution-as-enforced-democratic-realignment",
-      "title": "Decision_ Frame the 1868 Constitution as Enforced Democratic Realignment",
-      "description": "\\# Decision: Frame the 1868 Constitution as Enforced Democratic Realignment",
+      "title": "Decision: Frame the 1868 Constitution as Enforced Democratic Realignment",
+      "description": "Analyze the 1868 Constitution as an externally enforced realignment of political power rather than an internal reform movement.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-03-31",
       "era": "",
       "place": ""
     },
@@ -202,13 +196,13 @@
       "section": "constitutions",
       "slug": "decision-frame-the-1874-constitution-as-structural-counter-revolution",
       "url": "/constitutions/decision-frame-the-1874-constitution-as-structural-counter-revolution",
-      "title": "Decision_ Frame the 1874 Constitution as Structural Counter-Revolution",
-      "description": "\\# Decision: Frame the 1874 Constitution as Structural Counter-Revolution",
+      "title": "Decision: Frame the 1874 Constitution as Structural Counter-Revolution",
+      "description": "Analyze the 1874 Constitution as a deliberate counter-revolution designed to entrench elite control and resist reform.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-04-01",
       "era": "",
       "place": ""
     },
@@ -216,13 +210,13 @@
       "section": "constitutions",
       "slug": "decision-treat-the-amendment-process-as-a-power-structure",
       "url": "/constitutions/decision-treat-the-amendment-process-as-a-power-structure",
-      "title": "Decision_ Treat the Amendment Process as a Power Structure",
-      "description": "\\# Decision: Treat the Amendment Process as a Power Structure",
+      "title": "Decision: Treat the Amendment Process as a Power Structure",
+      "description": "Analyze the amendment process itself as a core mechanism of political power and control.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
+      "date": "2025-04-02",
       "era": "",
       "place": ""
     },
@@ -231,7 +225,7 @@
       "slug": "territorial-governance-of-arkansas",
       "url": "/constitutions/territorial-governance-of-arkansas",
       "title": "Territorial Governance of Arkansas",
-      "description": "\\# Territorial Governance of Arkansas (1803â€“1836)",
+      "description": "Territorial Governance of Arkansas (1803–1836)",
       "tags": [
         "migration:scope",
         "section:constitutions"
@@ -272,8 +266,8 @@
       "section": "legislative",
       "slug": "legislature-index",
       "url": "/legislative/legislature-index",
-      "title": "legislature_index.md",
-      "description": "title: \"The Legislative Process in Arkansas\"",
+      "title": "The Legislative Process in Arkansas",
+      "description": "How laws move through Arkansas's legislative system.",
       "tags": [
         "migration:prototype",
         "section:legislative"
@@ -343,19 +337,6 @@
       "url": "/p/misc/arkansas-political-history-project",
       "title": "Arkansas Political History Project",
       "description": "Established the foundational direction for the Arkansas Political History Project.",
-      "tags": [
-        "migration:uncategorized"
-      ],
-      "date": "",
-      "era": "",
-      "place": ""
-    },
-    {
-      "section": "pages",
-      "slug": "misc/build-scripts-spec-md",
-      "url": "/p/misc/build-scripts-spec-md",
-      "title": "1. Purpose",
-      "description": "This document specifies the build-time scripts that turn Markdown content into a navigable, searchable, first-class civic archive.",
       "tags": [
         "migration:uncategorized"
       ],
@@ -536,8 +517,8 @@
       "section": "pages",
       "slug": "misc/governance-roles-md",
       "url": "/p/misc/governance-roles-md",
-      "title": "governance_roles.md",
-      "description": "This archive uses a \\*\\*layered contribution model\\*\\* to balance openness with rigor.",
+      "title": "Roles & Responsibilities",
+      "description": "This archive uses a layered contribution model to balance openness with rigor.",
       "tags": [
         "migration:uncategorized"
       ],
@@ -651,19 +632,6 @@
     },
     {
       "section": "pages",
-      "slug": "misc/search-filters-language-md",
-      "url": "/p/misc/search-filters-language-md",
-      "title": "search_filters-language.md",
-      "description": "This document defines consistent user-facing language for search and filtering.",
-      "tags": [
-        "migration:uncategorized"
-      ],
-      "date": "",
-      "era": "",
-      "place": ""
-    },
-    {
-      "section": "pages",
       "slug": "misc/search-index-md",
       "url": "/p/misc/search-index-md",
       "title": "search_index.md",
@@ -694,19 +662,6 @@
       "url": "/p/misc/search-tagging-cross-linking-logic",
       "title": "Search, Tagging & Cross-Linking Logic",
       "description": "Stand Up Arkansas — The People’s Political History",
-      "tags": [
-        "migration:uncategorized"
-      ],
-      "date": "",
-      "era": "",
-      "place": ""
-    },
-    {
-      "section": "pages",
-      "slug": "misc/site-svelte-config-js",
-      "url": "/p/misc/site-svelte-config-js",
-      "title": "site_svelte.config.js_",
-      "description": "import adapter from '@sveltejs/adapter-netlify';",
       "tags": [
         "migration:uncategorized"
       ],
@@ -978,13 +933,9 @@
       "section": "frameworks",
       "slug": "power/courts",
       "url": "/power/power/courts",
-      "title": "power_courts.md",
-      "description": "Courts in Arkansas do not merely interpret law.",
-      "tags": [
-        "migration:prototype",
-        "section:power",
-        "module:power"
-      ],
+      "title": "power/courts",
+      "description": "",
+      "tags": [],
       "date": "",
       "era": "",
       "place": ""
@@ -993,8 +944,8 @@
       "section": "frameworks",
       "slug": "power/gatekeepers",
       "url": "/power/power/gatekeepers",
-      "title": "power_gatekeepers.md",
-      "description": "Power in Arkansas is often exercised by \\*\\*those who control access\\*\\*, not those who cast final votes.",
+      "title": "Gatekeepers",
+      "description": "Power in Arkansas is often exercised by those who control access, not those who cast final votes.",
       "tags": [
         "migration:prototype",
         "section:power",
@@ -1068,8 +1019,8 @@
       "section": "frameworks",
       "slug": "power/rules",
       "url": "/power/power/rules",
-      "title": "power_rules.md",
-      "description": "In Arkansas, power most often operates through \\*\\*rules\\*\\*, not force.",
+      "title": "Rules",
+      "description": "In Arkansas, power most often operates through **rules**, not force.",
       "tags": [
         "migration:prototype",
         "section:power",
@@ -1211,30 +1162,30 @@
       "section": "timelines",
       "slug": "eras/reconstruction-era",
       "url": "/timeline/eras/reconstruction-era",
-      "title": "timeline_eras_reconstruction_era.md",
-      "description": "title: \"Reconstruction & Federal Intervention\"",
+      "title": "Reconstruction & Federal Intervention",
+      "description": "Reconstruction & Federal Intervention",
       "tags": [
         "migration:prototype",
         "section:timeline",
         "type:era"
       ],
       "date": "",
-      "era": "",
+      "era": "Reconstruction",
       "place": ""
     },
     {
       "section": "timelines",
       "slug": "events/event-template",
       "url": "/timeline/events/event-template",
-      "title": "timeline_events_event-template.md",
-      "description": "This event occurred during a period when \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+      "title": "Event Title",
+      "description": "This event occurred during a period when __________.",
       "tags": [
         "migration:prototype",
         "section:timeline",
         "type:event"
       ],
-      "date": "",
-      "era": "",
+      "date": "YYYY-MM-DD (or range)",
+      "era": "Era Name",
       "place": ""
     },
     {
@@ -1276,7 +1227,7 @@
     },
     {
       "tag": "migration:prototype",
-      "count": 24,
+      "count": 23,
       "urls": [
         "/legislative/legislature-gatekeeping",
         "/legislative/legislature-history",
@@ -1284,7 +1235,6 @@
         "/legislative/legislature-process-modern",
         "/p/constitutions-index",
         "/p/design-principles",
-        "/power/power/courts",
         "/power/power/gatekeepers",
         "/power/power/geography",
         "/power/power/index",
@@ -1306,14 +1256,12 @@
     },
     {
       "tag": "migration:scope",
-      "count": 17,
+      "count": 15,
       "urls": [
         "/constitutions/arkansas-amendment-era",
         "/constitutions/arkansas-constitution-of-1836",
         "/constitutions/arkansas-constitution-of-1861",
-        "/constitutions/arkansas-constitution-of-1864",
         "/constitutions/arkansas-constitution-of-1868",
-        "/constitutions/arkansas-constitution-of-1874",
         "/constitutions/arkansas-constitutions-module-overview",
         "/constitutions/arkansas-political-eras-foundational-periodization",
         "/constitutions/arkansas-political-history-project",
@@ -1329,10 +1277,9 @@
     },
     {
       "tag": "migration:uncategorized",
-      "count": 47,
+      "count": 44,
       "urls": [
         "/p/misc/arkansas-political-history-project",
-        "/p/misc/build-scripts-spec-md",
         "/p/misc/content-standards-md",
         "/p/misc/core-principles-arkansas-political-history-project",
         "/p/misc/data-data-dictionary-md",
@@ -1355,11 +1302,9 @@
         "/p/misc/non-negotiables-arkansas-political-history-project",
         "/p/misc/page-components-spec-md",
         "/p/misc/routing-and-slugs-spec-md",
-        "/p/misc/search-filters-language-md",
         "/p/misc/search-index-md",
         "/p/misc/search-result-card-spec-md",
         "/p/misc/search-tagging-cross-linking-logic",
-        "/p/misc/site-svelte-config-js",
         "/p/misc/sourcing-format-spec-md",
         "/p/misc/tags-index-md",
         "/p/misc/tags-policy-areas-criminal-justice-md",
@@ -1382,10 +1327,9 @@
     },
     {
       "tag": "module:power",
-      "count": 8,
+      "count": 7,
       "urls": [
         "/power/index",
-        "/power/power/courts",
         "/power/power/gatekeepers",
         "/power/power/geography",
         "/power/power/index",
@@ -1431,14 +1375,12 @@
     },
     {
       "tag": "section:constitutions",
-      "count": 17,
+      "count": 15,
       "urls": [
         "/constitutions/arkansas-amendment-era",
         "/constitutions/arkansas-constitution-of-1836",
         "/constitutions/arkansas-constitution-of-1861",
-        "/constitutions/arkansas-constitution-of-1864",
         "/constitutions/arkansas-constitution-of-1868",
-        "/constitutions/arkansas-constitution-of-1874",
         "/constitutions/arkansas-constitutions-module-overview",
         "/constitutions/arkansas-political-eras-foundational-periodization",
         "/constitutions/arkansas-political-history-project",
@@ -1472,9 +1414,8 @@
     },
     {
       "tag": "section:power",
-      "count": 7,
+      "count": 6,
       "urls": [
-        "/power/power/courts",
         "/power/power/gatekeepers",
         "/power/power/geography",
         "/power/power/index",

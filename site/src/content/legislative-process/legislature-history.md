@@ -5,7 +5,6 @@ tags:
   - migration:prototype
   - section:legislative
 ---
-
 ---
 
 title: "Historical Evolution of Arkansas Lawmaking"
@@ -18,11 +17,11 @@ section: "Legislature"
 
 Arkansasâ€™ legislative process reflects its constitutional history.
 
-The modern General Assembly did not emerge as a neutral lawmaking body â€” it evolved through conflict over who should govern and how power should be constrained.
+The modern General Assembly did not emerge as a neutral lawmaking body â€" it evolved through conflict over who should govern and how power should be constrained.
 
 ---
 
-\## Early Statehood (1836â€“1861)
+\## Early Statehood (1836â€"1861)
 
 Under the 1836 Constitution:
 
@@ -38,7 +37,7 @@ Popular accountability was limited by suffrage restrictions.
 
 ---
 
-\## Civil War & Collapse (1861â€“1865)
+\## Civil War & Collapse (1861â€"1865)
 
 During secession and war:
 
@@ -52,7 +51,7 @@ This period exposed the fragility of governance without consensus.
 
 ---
 
-\## Reconstruction (1868â€“1874)
+\## Reconstruction (1868â€"1874)
 
 The 1868 Constitution:
 
@@ -80,7 +79,7 @@ The 1874 Constitution restored:
 
 This structure persists today.
 
-The legislature became the primary site where power is exercised â€” often through procedure rather than debate.
+The legislature became the primary site where power is exercised â€" often through procedure rather than debate.
 
 ---
 
