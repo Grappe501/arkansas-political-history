@@ -1,0 +1,382 @@
+{
+  "generatedAt": "2025-12-26T19:21:28.220600+00:00",
+  "repoRoot": "C:\\Users\\User\\Desktop\\Arkansas_Political_History",
+  "contentRoot": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content",
+  "quarantineRoot": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine",
+  "scannedMarkdownFiles": 98,
+  "quarantinedFiles": 52,
+  "findings": [
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\community-impact\\community-index.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\community-impact\\community-index.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-amendment-era.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\arkansas-amendment-era.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1861.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\arkansas-constitution-of-1861.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1868.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\arkansas-constitution-of-1868.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-eras-foundational-periodization.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\arkansas-political-eras-foundational-periodization.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\arkansas-political-history-project.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-frame-the-1874-constitution-as-structural-counter-revolution.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\decision-frame-the-1874-constitution-as-structural-counter-revolution.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\territorial-governance-of-arkansas.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\constitutions\\territorial-governance-of-arkansas.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\index.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\frameworks\\power\\index.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\money.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\frameworks\\power\\money.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\narrative.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\frameworks\\power\\narrative.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\rules.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\frameworks\\power\\rules.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-gatekeeping.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\legislative-process\\legislature-gatekeeping.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-history.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\legislative-process\\legislature-history.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-process-modern.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\legislative-process\\legislature-process-modern.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\constitutions-index.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\constitutions-index.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\design-principles.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\design-principles.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\start-here.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\start-here.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\arkansas-political-history-project.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\arkansas-political-history-project.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\build-scripts-spec-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\build-scripts-spec-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\content-standards-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\content-standards-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\core-principles-arkansas-political-history-project.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\core-principles-arkansas-political-history-project.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\data-data-dictionary-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\data-data-dictionary-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\data-place-registry-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\data-place-registry-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\data-provenance-schema-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\data-provenance-schema-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\decision-initialize-the-brain-of-the-build.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\decision-initialize-the-brain-of-the-build.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\editorial-style-guide-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\editorial-style-guide-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\folder-tree.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\folder-tree.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-disagreement-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\governance-disagreement-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-principles-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\governance-principles-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-standup-arkansas-role-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\governance-standup-arkansas-role-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\guiding-rules-for-data-in-this-archive.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\guiding-rules-for-data-in-this-archive.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\master-vision-arkansas-political-history-project.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\master-vision-arkansas-political-history-project.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\netlify-toml.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\netlify-toml.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\non-negotiables-arkansas-political-history-project.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\non-negotiables-arkansas-political-history-project.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\page-components-spec-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\page-components-spec-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\routing-and-slugs-spec-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\routing-and-slugs-spec-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-filters-language-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\search-filters-language-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-index-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\search-index-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-result-card-spec-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\search-result-card-spec-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-tagging-cross-linking-logic.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\search-tagging-cross-linking-logic.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\sourcing-format-spec-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\sourcing-format-spec-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-index-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\tags-index-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-index-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\tags-policy-areas-index-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\taxonomy-registry-md.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\taxonomy-registry-md.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\technical-build-plan.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\technical-build-plan.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\visual-layout-interaction-specification.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\pages\\misc\\visual-layout-interaction-specification.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-claims.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\sources\\sources-claims.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-standards.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\sources\\sources-standards.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\index.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\timelines\\index.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\eras\\era-template.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\timelines\\eras\\era-template.md"
+    },
+    {
+      "file": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\eras\\reconstruction.md",
+      "reasons": [
+        "unicode_smart_quotes"
+      ],
+      "moved_to": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\_quarantine\\timelines\\eras\\reconstruction.md"
+    }
+  ],
+  "reasonLegend": {
+    "unicode_smart_quotes": "Curly quotes (U+2018/2019/201C/201D) present in markdown.",
+    "cp1252_control_chars": "Control range U+0080..U+009F present (often from DOCX export).",
+    "html_paragraph_tags": "<p> or </p> tags found (HTML soup from conversions).",
+    "html_span_token": "Prism/tokenized HTML spans found (<span class='token'>...).",
+    "html_entity_braces": "HTML entities for braces (&#123; &#125;) found (mangled code blocks).",
+    "brace_quote_artifacts": "Brace+quote artifacts that often break mdsvex/Svelte parsing."
+  }
+}
