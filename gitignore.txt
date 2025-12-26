@@ -1,0 +1,36 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / SvelteKit
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.svelte-kit/
+site/.svelte-kit/
+site/build/
+site/.vercel/
+site/.netlify/
+site/node_modules/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Generated data (we will regenerate these in builds)
+data/indexes/
+data/manifests/
+data/logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
