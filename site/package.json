@@ -4,8 +4,8 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
-		"dev": "node ../scripts/sync-content.mjs && vite dev",
-		"build:prep": "node ../scripts/sync-content.mjs && node ../scripts/build-content-index.mjs",
+		"dev": "node ./scripts/sync-content.mjs && vite dev",
+		"build:prep": "node ./scripts/sync-content.mjs && node ./scripts/build-content-index.mjs",
 		"build": "npm run build:prep && vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",

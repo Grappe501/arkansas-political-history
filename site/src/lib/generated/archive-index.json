@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2025-12-26T16:53:54.212Z",
+  "count": 5,
+  "items": [
+    {
+      "section": "pages",
+      "slug": "index",
+      "url": "/p/index",
+      "title": "Arkansas Political History",
+      "description": "A civic archive with moral clarity — built for the people of Arkansas.",
+      "tags": [
+        "project:home"
+      ],
+      "date": "",
+      "era": "",
+      "place": ""
+    },
+    {
+      "section": "pages",
+      "slug": "start-here",
+      "url": "/p/start-here",
+      "title": "Start Here",
+      "description": "How to use this archive, what it is, and why it exists.",
+      "tags": [
+        "project:onboarding"
+      ],
+      "date": "",
+      "era": "",
+      "place": ""
+    },
+    {
+      "section": "frameworks",
+      "slug": "index",
+      "url": "/power/index",
+      "title": "Power in Arkansas",
+      "description": "A framework for seeing the machine — rules, courts, money, narrative, and gatekeepers.",
+      "tags": [
+        "module:power"
+      ],
+      "date": "",
+      "era": "",
+      "place": ""
+    },
+    {
+      "section": "timelines",
+      "slug": "eras/reconstruction",
+      "url": "/timeline/eras/reconstruction",
+      "title": "Reconstruction (1868–1874)",
+      "description": "Enforced democratic realignment followed by structural counter-revolution.",
+      "tags": [
+        "era:reconstruction",
+        "power:constitution",
+        "power:enforcement"
+      ],
+      "date": "",
+      "era": "",
+      "place": ""
+    },
+    {
+      "section": "timelines",
+      "slug": "index",
+      "url": "/timeline/index",
+      "title": "Timeline Index",
+      "description": "A structured path through Arkansas political eras and turning points.",
+      "tags": [
+        "module:timeline"
+      ],
+      "date": "",
+      "era": "",
+      "place": ""
+    }
+  ],
+  "tags": [
+    {
+      "tag": "era:reconstruction",
+      "count": 1,
+      "urls": [
+        "/timeline/eras/reconstruction"
+      ]
+    },
+    {
+      "tag": "module:power",
+      "count": 1,
+      "urls": [
+        "/power/index"
+      ]
+    },
+    {
+      "tag": "module:timeline",
+      "count": 1,
+      "urls": [
+        "/timeline/index"
+      ]
+    },
+    {
+      "tag": "power:constitution",
+      "count": 1,
+      "urls": [
+        "/timeline/eras/reconstruction"
+      ]
+    },
+    {
+      "tag": "power:enforcement",
+      "count": 1,
+      "urls": [
+        "/timeline/eras/reconstruction"
+      ]
+    },
+    {
+      "tag": "project:home",
+      "count": 1,
+      "urls": [
+        "/p/index"
+      ]
+    },
+    {
+      "tag": "project:onboarding",
+      "count": 1,
+      "urls": [
+        "/p/start-here"
+      ]
+    }
+  ]
+}
