@@ -1,0 +1,630 @@
+{
+  "generatedAt": "2025-12-26T17:52:28.351104Z",
+  "repoRoot": "C:\\Users\\User\\Desktop\\Arkansas_Political_History",
+  "pandocFound": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+  "overwriteExistingMd": false,
+  "totalDocxFound": 105,
+  "converted": [
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\00_PROJECT_CHARTER\\# Arkansas Political History Project.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\arkansas-political-history-project.md",
+      "method": "docx-text",
+      "title": "Arkansas Political History Project"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\00_PROJECT_CHARTER\\# Core Principles \u2014 Arkansas Political History Project.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\core-principles-arkansas-political-history-project.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Core Principles \u2014 Arkansas Political History Project"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\00_PROJECT_CHARTER\\# Decision_ Initialize the Brain of the Build.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\decision-initialize-the-brain-of-the-build.md",
+      "method": "docx-text",
+      "title": "Decision: Initialize the Brain of the Build"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\00_PROJECT_CHARTER\\# Master Vision \u2014 Arkansas Political History Project.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\master-vision-arkansas-political-history-project.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Master Vision \u2014 Arkansas Political History Project"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\00_PROJECT_CHARTER\\# Non-Negotiables \u2014 Arkansas Political History Project.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\non-negotiables-arkansas-political-history-project.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Non-Negotiables \u2014 Arkansas Political History Project"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\00_PROJECT_CHARTER\\Folder Tree.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\folder-tree.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Folder Tree"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\01_Prototype_Content_Package_(v1)\\constitutions_index.md (Constitution Landing Page).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\constitutions-index.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "constitutions_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\01_Prototype_Content_Package_(v1)\\design-principles.md (Internal but Critical).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\design-principles.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "design-principles.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Amendment Era (1874\u2013Present).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-amendment-era.md",
+      "method": "docx-text",
+      "title": "Arkansas Amendment Era (1874\u2013Present)"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitution of 1836.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1836.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Arkansas Constitution of 1836"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitution of 1861 (Secession Constitution).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1861.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Arkansas Constitution of 1861"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitution of 1864 (Unionist Wartime Constitution).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1864.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Arkansas Constitution of 1864"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitution of 1868 (Reconstruction Constitution).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1868.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Arkansas Constitution of 1868"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitution of 1874 (Redemption Constitution).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitution-of-1874.md",
+      "method": "docx-text",
+      "title": "Arkansas Constitution of 1874 (Redemption Constitution)"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitutions \u2014 Module Overview(1).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitutions-module-overview.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Arkansas Constitutions \u2014 Module Overview"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political Eras \u2014 Foundational Periodization.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-eras-foundational-periodization.md",
+      "method": "docx-text",
+      "title": "Arkansas Political Eras \u2014 Foundational Periodization"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(1).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "method": "docx-text",
+      "title": "Arkansas Political History Project"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Analyze Constitutions as Power Architecture.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-analyze-constitutions-as-power-architecture.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Analyze Constitutions as Power Architecture"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Classify the 1861 Constitution as a Failure-State Constitution.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-classify-the-1861-constitution-as-a-failure-state-constitution.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Classify the 1861 Constitution as a Failure-State Constitution"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Classify the 1864 Constitution as an Administrative Bridge.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-classify-the-1864-constitution-as-an-administrative-bridge.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Classify the 1864 Constitution as an Administrative Bridge"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Establish Arkansas Political Eras Framework.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-establish-arkansas-political-eras-framework.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Establish Arkansas Political Eras Framework"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Frame the 1868 Constitution as Enforced Democratic Realignment.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-frame-the-1868-constitution-as-enforced-democratic-realignment.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Frame the 1868 Constitution as Enforced Democratic Realignment"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Frame the 1874 Constitution as Structural Counter-Revolution.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-frame-the-1874-constitution-as-structural-counter-revolution.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Frame the 1874 Constitution as Structural Counter-Revolution"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Decision_ Treat the Amendment Process as a Power Structure.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\decision-treat-the-amendment-process-as-a-power-structure.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Decision_ Treat the Amendment Process as a Power Structure"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Territorial Governance of Arkansas (1803\u20131836).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\territorial-governance-of-arkansas.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Territorial Governance of Arkansas"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\03_Timeline_Prototype_Pages\\timeline_eras_era-template.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\eras\\era-template.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "timeline_eras_era-template.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\03_Timeline_Prototype_Pages\\timeline_eras_reconstruction_era.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\eras\\reconstruction-era.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "timeline_eras_reconstruction_era.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\03_Timeline_Prototype_Pages\\timeline_events_event-template.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\events\\event-template.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "timeline_events_event-template.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\03_Timeline_Prototype_Pages\\timeline_events_example_event.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\events\\example-event.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "timeline_events_example_event.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_courts.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\courts.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_courts.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_gatekeepers.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\gatekeepers.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_gatekeepers.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_geography.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\geography.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_geography.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\index.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_money.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\money.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_money.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_narrative.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\narrative.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_narrative.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\04_Power_in_Arkansas\\power_rules.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\frameworks\\power\\rules.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "power_rules.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\05_ Community_Impact\\community_example_place.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\community-impact\\community-example-place.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "community_example_place.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\05_ Community_Impact\\community_impact-event-template.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\community-impact\\community-impact-event-template.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "community_impact-event-template.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\05_ Community_Impact\\community_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\community-impact\\community-index.md",
+      "method": "docx-text",
+      "title": "community_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\05_ Community_Impact\\community_place-template.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\community-impact\\community-place-template.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "community_place-template.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\05_ Community_Impact\\community_policy-template.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\community-impact\\community-policy-template.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "community_policy-template.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_claims.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-claims.md",
+      "method": "docx-text",
+      "title": "sources_claims.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_conflict-and-uncertainty.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-conflict-and-uncertainty.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "sources_conflict-and-uncertainty.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-index.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "sources_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_intake.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-intake.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "sources_intake.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_revisions.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-revisions.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "sources_revisions.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_source-types.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-source-types.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "sources_source-types.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\06_ Sources_&_Provenance\\sources_standards.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\sources\\sources-standards.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "sources_standards.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\07_ The_Legislative_Process_in_Arkansas\\legislature_gatekeeping.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-gatekeeping.md",
+      "method": "docx-text",
+      "title": "legislature_gatekeeping.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\07_ The_Legislative_Process_in_Arkansas\\legislature_history.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-history.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "legislature_history.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\07_ The_Legislative_Process_in_Arkansas\\legislature_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-index.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "legislature_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\07_ The_Legislative_Process_in_Arkansas\\legislature_process-modern.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\legislative-process\\legislature-process-modern.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "legislature_process-modern.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_contribution-process.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-contribution-process-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_contribution-process.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_disagreement.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-disagreement-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_disagreement.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_ethics.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-ethics-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_ethics.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-index-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_principles.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-principles-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_principles.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_roles.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-roles-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_roles.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_standup-arkansas-role.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-standup-arkansas-role-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_standup-arkansas-role.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Contributor_&_Governance_Model\\governance_transparency.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\governance-transparency-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "governance_transparency.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_criminal_justice.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-criminal-justice-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_criminal_justice.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_education.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-education-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_education.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_elections_representation.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-elections-representation-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_elections_representation.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_environment_water.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-environment-water-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_environment_water.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-index-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_labor_economy.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-labor-economy-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_labor_economy.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\POLICY_AREA_TAG_PAGES\\tags_policy_areas_local_government.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-policy-areas-local-government-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_policy_areas_local_government.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\BUILD_SCRIPTS_SPEC.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\build-scripts-spec-md.md",
+      "method": "docx-text",
+      "title": "1. Purpose"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\CONTENT_STANDARDS.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\content-standards-md.md",
+      "method": "docx-text",
+      "title": "CONTENT_STANDARDS.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\data_DATA_DICTIONARY.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\data-data-dictionary-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "data_DATA_DICTIONARY.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\data_PLACE_REGISTRY.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\data-place-registry-md.md",
+      "method": "docx-text",
+      "title": "Place Registry"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\data_PROVENANCE_SCHEMA.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\data-provenance-schema-md.md",
+      "method": "docx-text",
+      "title": "Provenance Schema"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\EDITORIAL_STYLE_GUIDE.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\editorial-style-guide-md.md",
+      "method": "docx-text",
+      "title": "Editorial Style Guide"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\Guiding rules for data in this archive.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\guiding-rules-for-data-in-this-archive.md",
+      "method": "docx-text",
+      "title": "1) Guiding rules for data in this archive"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\Netlify.toml.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\netlify-toml.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "Netlify.toml"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\PAGE_COMPONENTS_SPEC.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\page-components-spec-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "PAGE_COMPONENTS_SPEC.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\ROUTING_AND_SLUGS_SPEC.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\routing-and-slugs-spec-md.md",
+      "method": "docx-text",
+      "title": "ROUTING_AND_SLUGS_SPEC.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\site_svelte.config.js_.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\site-svelte-config-js.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "site_svelte.config.js_"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\SOURCING_FORMAT_SPEC.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\sourcing-format-spec-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "SOURCING_FORMAT_SPEC.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Rules_for_Data\\TAXONOMY_REGISTRY.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\taxonomy-registry-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "TAXONOMY_REGISTRY.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Search, Tagging & Cross-Linking Logic.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-tagging-cross-linking-logic.md",
+      "method": "docx-text",
+      "title": "Search, Tagging & Cross-Linking Logic"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Search_Page_UI_+_Filter_Language_Prototype\\search_filters-language.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-filters-language-md.md",
+      "method": "docx-text",
+      "title": "search_filters-language.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Search_Page_UI_+_Filter_Language_Prototype\\search_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-index-md.md",
+      "method": "docx-text",
+      "title": "search_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Search_Page_UI_+_Filter_Language_Prototype\\search_result-card-spec.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\search-result-card-spec-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "search_result-card-spec.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-index-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_power_mechanisms_disenfranchisement.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-power-mechanisms-disenfranchisement-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_power_mechanisms_disenfranchisement.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_power_mechanisms_executive_weakening.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-power-mechanisms-executive-weakening-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_power_mechanisms_executive_weakening.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_power_mechanisms_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-power-mechanisms-index-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_power_mechanisms_index.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_power_mechanisms_judicial_delay.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-power-mechanisms-judicial-delay-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_power_mechanisms_judicial_delay.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_power_mechanisms_preemption.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-power-mechanisms-preemption-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_power_mechanisms_preemption.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\TAG_SYSTEM_GENERATION_PACKAGE\\tags_power_mechanisms_procedural_supremacy.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\tags-power-mechanisms-procedural-supremacy-md.md",
+      "method": "pandoc:C:\\Users\\User\\Desktop\\Arkansas_Political_History\\tools\\pandoc\\pandoc-3.8.3\\pandoc.exe",
+      "title": "tags_power_mechanisms_procedural_supremacy.md"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Technical Build Plan.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\technical-build-plan.md",
+      "method": "docx-text",
+      "title": "Technical Build Plan"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\08_Specs\\Visual Layout & Interaction Specification.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\misc\\visual-layout-interaction-specification.md",
+      "method": "docx-text",
+      "title": "Visual Layout & Interaction Specification"
+    }
+  ],
+  "skipped": [
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\01_Prototype_Content_Package_(v1)\\index.md (Homepage).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\index.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\01_Prototype_Content_Package_(v1)\\start-here.md (How to Use This Archive).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\pages\\start-here.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Constitutions \u2014 Module Overview.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-constitutions-module-overview.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(2).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(3).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(4).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(5).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(6).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(7).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project(8).docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\02_HISTORICAL_SCOPE\\# Arkansas Political History Project.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\constitutions\\arkansas-political-history-project.md",
+      "reason": "dest exists"
+    },
+    {
+      "source": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\03_Timeline_Prototype_Pages\\timeline_index.md.docx",
+      "dest": "C:\\Users\\User\\Desktop\\Arkansas_Political_History\\content\\timelines\\index.md",
+      "reason": "dest exists"
+    }
+  ],
+  "failed": []
+}
