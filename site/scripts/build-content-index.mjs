@@ -3,10 +3,10 @@ import path from 'node:path';
 import fg from 'fast-glob';
 import matter from 'gray-matter';
 
-const SITE_ROOT = process.cwd();
-const CONTENT_ROOT = path.join(SITE_ROOT, 'src', 'content');
+const ROOT = process.cwd();
+const CONTENT_ROOT = path.join(ROOT, 'site', 'src', 'content');
 
-const OUT_DIR = path.join(SITE_ROOT, 'src', 'lib', 'generated');
+const OUT_DIR = path.join(ROOT, 'site', 'src', 'lib', 'generated');
 const OUT_FILE = path.join(OUT_DIR, 'archive-index.json');
 
 function ensureDir(p) {
@@ -23,12 +23,6 @@ function normalizeTags(v) {
 	return [];
 }
 
-function safeReadUtf8(file) {
-	// If any weird bytes exist, replace invalid sequences safely.
-	const buf = fs.readFileSync(file);
-	return buf.toString('utf8');
-}
-
 function indexFolder(section, folderRel) {
 	const folderAbs = path.join(CONTENT_ROOT, folderRel);
 	if (!fs.existsSync(folderAbs)) {
@@ -40,13 +34,20 @@ function indexFolder(section, folderRel) {
 
 	return files.map((rel) => {
 		const full = path.join(folderAbs, rel);
-		const raw = safeReadUtf8(full);
+		const raw = fs.readFileSync(full, 'utf8');
 		const parsed = matter(raw);
 		const meta = parsed.data ?? {};
 
 		const relNoExt = rel.replace(/\.md$/i, '');
 		const slugPath = toUrlPath(relNoExt);
 
+		// Route convention:
+		//  - pages -> /p/<slug>
+		//  - timelines -> /timeline/<slug>
+		//  - frameworks -> /power/<slug> (for now; we’ll expand later)
+		//  - constitutions -> /constitutions/<slug>
+		//  - legislative-process -> /legislative/<slug>
+		//  - sources -> /sources/<slug>
 		let url = '';
 		switch (section) {
 			case 'pages':
@@ -75,6 +76,7 @@ function indexFolder(section, folderRel) {
 		const description = typeof meta.description === 'string' ? meta.description : '';
 		const tags = normalizeTags(meta.tags);
 
+		// Optional common metadata
 		const date = typeof meta.date === 'string' ? meta.date : '';
 		const era = typeof meta.era === 'string' ? meta.era : '';
 		const place = typeof meta.place === 'string' ? meta.place : '';
@@ -107,6 +109,7 @@ function main() {
 
 	const items = sections.flatMap((s) => indexFolder(s.section, s.folderRel));
 
+	// Build tag index
 	const tagMap = new Map();
 	for (const item of items) {
 		for (const tag of item.tags) {

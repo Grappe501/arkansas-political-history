@@ -1,0 +1,28 @@
+<script lang="ts">
+  import { siteConfig } from '$lib/siteConfig';
+</script>
+
+<svelte:head>
+  <title>Tag • {siteConfig.siteName}</title>
+</svelte:head>
+
+<section class="prose">
+  <header class="page-header">
+    <h1>Tag</h1>
+  </header>
+
+<p>Tag hub scaffold.</p>
+<p>Tag: <strong>{$page.params.tag}</strong></p>
+
+</section>
+
+<style>
+  .page-header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.75rem;
+    margin-bottom: 1rem;
+  }
+  .page-header h1 {
+    margin: 0;
+  }
+</style>

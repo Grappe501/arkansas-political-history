@@ -1,0 +1,194 @@
+/* =========================
+   THEME VARIABLES
+   ========================= */
+
+/* Light theme (default) */
+:root {
+  --bg: #ffffff;
+  --panel: #f6f7f9;
+  --text: #0b0f14;
+  --muted: #4b5a6a;
+  --border: rgba(0,0,0,0.12);
+
+  --link-underline: rgba(11, 15, 20, 0.28);
+  --link-underline-hover: rgba(11, 15, 20, 0.62);
+
+  --maxw: 74rem;
+  --padx: 1.25rem;
+  --radius: 18px;
+
+  color-scheme: light;
+}
+
+/* Dark theme */
+:root[data-resolved-theme="dark"] {
+  --bg: #0b0f14;
+  --panel: #0f1620;
+  --text: #e8eef6;
+  --muted: #a9b7c6;
+  --border: rgba(255,255,255,0.10);
+
+  --link-underline: rgba(232, 238, 246, 0.35);
+  --link-underline-hover: rgba(232, 238, 246, 0.75);
+
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  line-height: 1.6;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-underline-offset: 3px;
+}
+a:hover {
+  text-decoration-color: var(--link-underline-hover);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* Page shell */
+.shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, rgba(0,0,0,0.03), rgba(0,0,0,0.00));
+}
+:root[data-resolved-theme="dark"] .topbar {
+  background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.00));
+}
+
+.topbar-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 1rem var(--padx);
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.brand {
+  font-weight: 750;
+  letter-spacing: 0.2px;
+  text-decoration: none;
+}
+
+.brand small {
+  display: block;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0.1px;
+  margin-top: 0.15rem;
+}
+
+.main {
+  flex: 1;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  width: 100%;
+  padding: 2rem var(--padx) 4rem;
+}
+
+/* “Readable markdown” */
+.prose {
+  background: rgba(0,0,0,0.03);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.5rem;
+}
+:root[data-resolved-theme="dark"] .prose {
+  background: rgba(255,255,255,0.03);
+}
+
+.prose :where(h1,h2,h3) {
+  line-height: 1.15;
+  margin: 1.4em 0 0.55em;
+  letter-spacing: -0.01em;
+}
+.prose :where(h1) { font-size: clamp(1.9rem, 3.2vw, 2.6rem); margin-top: 0.2em; }
+.prose :where(h2) { font-size: clamp(1.35rem, 2.2vw, 1.75rem); }
+.prose :where(h3) { font-size: 1.15rem; color: var(--text); }
+
+.prose :where(p, ul, ol) { margin: 0.85em 0; }
+.prose :where(li) { margin: 0.35em 0; }
+
+.prose :where(blockquote) {
+  margin: 1.2em 0;
+  padding: 0.85em 1em;
+  border-left: 4px solid rgba(0,0,0,0.14);
+  background: rgba(0,0,0,0.03);
+  color: var(--muted);
+}
+:root[data-resolved-theme="dark"] .prose :where(blockquote) {
+  border-left: 4px solid rgba(255,255,255,0.18);
+  background: rgba(255,255,255,0.03);
+}
+
+.prose :where(code) {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.95em;
+  background: rgba(0,0,0,0.06);
+  padding: 0.12em 0.32em;
+  border-radius: 8px;
+}
+:root[data-resolved-theme="dark"] .prose :where(code) {
+  background: rgba(255,255,255,0.06);
+}
+
+.prose :where(pre) {
+  overflow-x: auto;
+  padding: 1rem;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.08);
+}
+:root[data-resolved-theme="dark"] .prose :where(pre) {
+  background: rgba(0,0,0,0.25);
+}
+
+.prose :where(pre code) {
+  background: transparent;
+  padding: 0;
+}
+
+/* Tables (markdown tables) */
+.prose :where(table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2rem 0;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+}
+.prose :where(th, td) {
+  text-align: left;
+  padding: 0.75rem 0.85rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.prose :where(th) {
+  color: var(--muted);
+  font-weight: 650;
+  background: rgba(0,0,0,0.03);
+}
+:root[data-resolved-theme="dark"] .prose :where(th) {
+  background: rgba(255,255,255,0.04);
+}

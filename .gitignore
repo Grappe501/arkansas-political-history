@@ -25,3 +25,8 @@ data/logs/*.txt
 __pycache__/
 *.pyc
 .venv/
+# Local build tools / installers (never commit)
+tools/pandoc/
+tools/_bfg/
+*.msi
+*.exe
