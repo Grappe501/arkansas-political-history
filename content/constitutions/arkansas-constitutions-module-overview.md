@@ -1,9 +1,15 @@
 ---
 title: "Arkansas Constitutions — Module Overview"
-description: "Arkansas Constitutions — Module Overview"
+description: "How Arkansas constitutions were designed, contested, and weaponized—and why they still shape power today."
 tags:
   - migration:scope
   - section:constitutions
+l2Topics:
+  - foundations
+contentType: "overview"
+learning:
+  mode: "orientation"
+  estimatedMinutes: 6
 section: "Constitutions"
 type: "Overview"
 status: "Published"
@@ -11,61 +17,136 @@ status: "Published"
 
 # Arkansas Constitutions — Module Overview
 
-## Purpose of This Module
+## What This Module Is Really About
 
-This module documents the full constitutional history of Arkansas, including:
+This module is not a civics textbook.
 
-- pre-statehood territorial governance,
-- every constitutional convention and constitution,
-- amendments and revisions,
-- interpretations by courts and officials,
-- and the real-world effects of constitutional structures on power and communities.
+It is an **investigation into how power was designed to work in Arkansas**—and how those designs continue to shape what is possible today.
 
-The Arkansas Constitution is treated not as a static document, but as:
+Arkansas constitutions are treated here not as neutral legal documents, but as:
+- deliberate political constructions,
+- responses to conflict and fear,
+- and tools used to organize who governs, who decides, and who waits.
 
-- a contested political artifact,
-- a tool of power,
-- and a reflection of who was allowed to govern and who was excluded.
+You are not just learning *what changed*.
+You are learning **why it changed**, **who benefited**, and **how those choices echo forward**.
+
+---
+
+## How to Read This Module
+
+Each constitution is approached as a **moment in a longer struggle**, not a standalone event.
+
+As you move through the documents, you will notice:
+- patterns repeating under different names,
+- language becoming more subtle as power becomes more secure,
+- and reform being redirected from substance into procedure.
+
+You are encouraged to read slowly and relationally:
+- connect one constitution to the next,
+- track which powers move and which remain fixed,
+- and notice what problems are *never* actually solved.
+
+---
+
+## Stories, Not Abstractions
+
+Throughout this module, constitutional design is grounded in **real Arkansas people and places**, including:
+- counties where power shifted briefly, then snapped back,
+- communities where schools opened and then quietly closed,
+- offices that gained authority and later lost it,
+- and populations whose inclusion was temporary by design.
+
+These stories are not illustrative.
+They are evidence.
+
+Constitutions only matter insofar as they shape lived reality.
 
 ---
 
 ## Guiding Questions
 
-- Who wrote each constitution, and under what conditions?
-- Who was allowed to participate, vote, or hold office?
-- What problems was each constitution trying to solve?
-- What power structures did each constitution entrench or dismantle?
-- How were race, class, land, labor, and citizenship encoded into governance?
+As you move through each constitution, keep returning to these questions:
+
+- Who wrote this constitution, and under what pressure?
+- Who was allowed to participate—and who was deliberately excluded?
+- What recent threat or failure was this constitution responding to?
+- Where was power strengthened, weakened, fragmented, or hidden?
+- What future outcomes does this design make likely?
+
+If a constitution claims neutrality, ask what it *prevents* rather than what it promises.
 
 ---
 
-## Constitutions to Be Covered
+## The Constitutional Arc You Will Study
 
-1. Territorial Governance (Pre-1836)
-2. Constitution of 1836
-3. Constitution of 1861 (Secession)
-4. Constitution of 1864 (Unionist wartime)
-5. Constitution of 1868 (Reconstruction)
-6. Constitution of 1874 (Redemption)
-7. Amendment Era (1874–present)
+This module follows a deliberate arc:
 
-Each constitution will have:
+1. **Territorial Governance (Pre-1836)**  
+   Power administered, not shared.
 
-- political context,
-- drafting process,
-- power analysis,
-- exclusions and impacts,
-- and downstream consequences.
+2. **Constitution of 1836**  
+   Exclusion formalized as legitimacy.
+
+3. **Constitution of 1861 (Secession)**  
+   Continuity under collapse.
+
+4. **Constitution of 1864 (Failed Bridge)**  
+   Administration without trust.
+
+5. **Constitution of 1868 (Enforced Realignment)**  
+   Inclusion through external power.
+
+6. **Constitution of 1874 (Perfected Backlash)**  
+   Reform neutralized structurally.
+
+7. **The Amendment Era (1874–Present)**  
+   Change permitted—but contained.
+
+Each constitution builds on the lessons of the one before it.
 
 ---
 
-## Structural Rule
+## The Core Rule of Analysis
 
-Every constitutional provision must be:
+Every constitutional provision examined in this module must be:
 
-- linked to its historical context,
-- traceable to source documents,
-- and mapped to the power it enables or restricts.
+- tied to the historical moment that produced it,
+- traceable to primary sources or documented interpretation,
+- and analyzed for the **power it enables or restricts** in practice.
 
-Interpretations and critiques must be clearly labeled as such.
+Interpretation is allowed.
+Assertion without evidence is not.
 
+---
+
+## Why This Matters Now
+
+By the end of this module, you should be able to see:
+- why reform efforts repeatedly stall,
+- why accountability feels diffused,
+- and why procedural fights dominate Arkansas politics.
+
+This is not accidental.
+
+It is constitutional inheritance.
+
+---
+
+## What Comes Next
+
+This module is **Level 2**.
+
+It is designed to prepare you for **Level 3**, where learning becomes action.
+
+Level 3 will move from analysis to practice:
+- identifying your organizing lane,
+- mapping power in your community,
+- choosing targets and audiences,
+- building teams and narratives,
+- and using constitutional knowledge as a tool—not trivia.
+
+If this module teaches you how the machine was built,  
+Level 3 teaches you how—and where—to apply pressure.
+
+That invitation appears once you are ready.

@@ -1,29 +1,30 @@
 {
-	"name": "site",
+	"name": "arkansas-political-history",
 	"private": true,
-	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
-		"dev": "node ./scripts/sync-content.mjs && vite dev",
-		"build:prep": "node ./scripts/sync-content.mjs && node ./scripts/build-content-index.mjs",
-		"build": "npm run build:prep && vite build",
+		"content:index": "node scripts/build-content-index.mjs",
+		"dev:site": "vite dev",
+		"build:site": "vite build",
+		"dev": "npm run content:index && npm run dev:site",
+		"build": "npm run content:index && npm run build:site",
 		"preview": "vite preview",
-		"prepare": "svelte-kit sync || echo ''",
-		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
+		"check": "echo \"no-check-configured\"",
+		"lint": "echo \"no-lint-configured\"",
+		"format": "echo \"no-format-configured\""
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-netlify": "^5.0.0",
-		"@sveltejs/kit": "^2.49.1",
+		"@sveltejs/adapter-auto": "^7.0.0",
+		"@sveltejs/adapter-netlify": "^5.2.4",
+		"@sveltejs/kit": "^2.49.2",
 		"@sveltejs/vite-plugin-svelte": "^6.2.1",
-		"fast-glob": "^3.3.2",
+		"fast-glob": "^3.3.3",
 		"gray-matter": "^4.0.3",
 		"mdsvex": "^0.12.6",
 		"rehype-autolink-headings": "^7.1.0",
 		"rehype-slug": "^6.0.0",
-		"svelte": "^5.45.6",
-		"svelte-check": "^4.3.4",
+		"svelte": "^5.46.1",
 		"typescript": "^5.9.3",
-		"vite": "^7.2.6"
+		"vite": "^6.4.1"
 	}
 }

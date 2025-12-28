@@ -25,6 +25,9 @@
     theme = next;
     setTheme(next);
   }
+
+  $: contentExplorerHref = `/__content?locale=${locale}`;
+  $: lensesHref = `/${locale}/lenses`;
 </script>
 
 <div class="shell">
@@ -39,6 +42,8 @@
         <a href="/{$page.params.locale}/l2">Level 2</a>
         <a href="/{$page.params.locale}/ideas">Ideas</a>
         <a href="/{$page.params.locale}/search">Search</a>
+        <a href={lensesHref}>Lenses</a>
+        <a href={contentExplorerHref}>Content</a>
         <a href="/{$page.params.locale}/l3">Level 3</a>
       </nav>
 

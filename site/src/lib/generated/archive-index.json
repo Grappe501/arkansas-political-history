@@ -1,7 +1,312 @@
 {
-  "generatedAt": "2025-12-27T16:40:57.055Z",
-  "count": 132,
+  "generatedAt": "2025-12-28T19:21:03.728Z",
+  "contentRoot": "C:/Users/User/Desktop/Arkansas_Political_History/content",
+  "count": 152,
   "items": [
+    {
+      "section": "constitutions",
+      "slug": "amendments/1870s",
+      "url": "/constitutions/amendments/1870s",
+      "title": "Arkansas Constitutional Amendments — 1870s",
+      "description": "The 1870s mark the beginning of Arkansas’s Amendment Era. Following the 1874 Constitution, formal constitutional change slowed dramatically as elites focused on stabilizing power, suppressing enforcement, and preventing another Reconstruction-style disruption.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1870s",
+        "reconstruction-backlash"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1870s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/1880s",
+      "url": "/constitutions/amendments/1880s",
+      "title": "Arkansas Constitutional Amendments — 1880s",
+      "description": "The 1880s deepen the Amendment Era by consolidating elite control without visible constitutional change. This decade shows how power hardens through administration, courts, and local discretion—while keeping the constitution largely untouched.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1880s",
+        "consolidation"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1880s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/1890s",
+      "url": "/constitutions/amendments/1890s",
+      "title": "Arkansas Constitutional Amendments — 1890s",
+      "description": "The 1890s bring the first serious test of Arkansas’s post-Reconstruction power system. Agrarian revolt, populism, and anti-monopoly pressure force elites to confront rising demands for structural change—without yet conceding direct constitutional access.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1890s",
+        "populism",
+        "agrarian-revolt"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1890s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/1900s",
+      "url": "/constitutions/amendments/1900s",
+      "title": "Arkansas Constitutional Amendments — 1900s–1920s",
+      "description": "The early 20th century marks Arkansas’s Progressive opening. Initiative and referendum arrive, popular reform surges, and for the first time since Reconstruction, citizens gain a direct constitutional pathway. Power responds by learning how to survive direct democracy itself.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1900s-1920s",
+        "progressive-era",
+        "direct-democracy"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1900s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/1930s",
+      "url": "/constitutions/amendments/1930s",
+      "title": "Arkansas Constitutional Amendments — 1930s–1950s",
+      "description": "The mid-20th century reshapes Arkansas power without reopening the constitution. New Deal administration expands the state on paper, while procedure, courts, and boards quietly absorb reform energy and preserve elite control.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1930s-1950s",
+        "new-deal",
+        "administrative-state"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1930s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/1960s",
+      "url": "/constitutions/amendments/1960s",
+      "title": "Arkansas Constitutional Amendments — 1960s–1980s",
+      "description": "The 1960s–1980s are defined by civil rights expansion colliding with a system built to resist enforcement. Courts become the central battleground, procedure hardens into doctrine, and backlash politics reshape how amendment power is exercised and constrained.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1960s-1980s",
+        "civil-rights",
+        "backlash-politics"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1960s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/1990s",
+      "url": "/constitutions/amendments/1990s",
+      "title": "Arkansas Constitutional Amendments — 1990s–2000s",
+      "description": "The 1990s–2000s mark the maturation of Arkansas’s modern amendment containment system. Procedure becomes the battlefield, courts become pre-election veto points, and Direct Democracy survives only by navigating an increasingly hostile legal terrain.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:1990s-2000s",
+        "procedural-warfare",
+        "direct-democracy"
+      ],
+      "l2Topics": [],
+      "contentType": "era",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/1990s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/2010s",
+      "url": "/constitutions/amendments/2010s",
+      "title": "2010s–2020s Amendments",
+      "description": "The 2010s–2020s mark the maturity of Arkansas’s amendment containment system. Popular reforms increasingly succeed at the ballot but are constrained, delayed, or neutralized through courts, procedure, and post-passage governance.",
+      "tags": [
+        "section:constitutions",
+        "amendments",
+        "direct-democracy",
+        "courts",
+        "modern-era"
+      ],
+      "l2Topics": [],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/2010s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/2020s",
+      "url": "/constitutions/amendments/2020s",
+      "title": "Arkansas Direct Democracy in the 2020s",
+      "description": "The 2020s reveal the most explicit and coordinated assault on Direct Democracy in Arkansas history. Voter-approved reforms, citizen-led initiatives, and referenda are systematically blocked, reinterpreted, or nullified through courts, agencies, and legislative countermeasures.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "decade:2020s",
+        "direct-democracy",
+        "judicial-gatekeeping",
+        "procedural-supremacy"
+      ],
+      "l2Topics": [],
+      "contentType": "analysis",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/2020s.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/direct-democracy-throughline",
+      "url": "/constitutions/amendments/direct-democracy-throughline",
+      "title": "Direct Democracy in Arkansas — A Throughline",
+      "description": "From total exclusion to procedural containment, this page traces the full arc of Direct Democracy in Arkansas—how initiative and referendum emerged, how they worked, and how power adapted to neutralize them without repeal.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "direct-democracy",
+        "initiative",
+        "referendum"
+      ],
+      "l2Topics": [],
+      "contentType": "analysis",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/direct-democracy-throughline.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "amendments/index",
+      "url": "/constitutions/amendments/index",
+      "title": "Arkansas Constitutional Amendments — Decade Index",
+      "description": "Since 1874, Arkansas has governed not through constitutional rewrites, but through amendments constrained by procedure. This index organizes the Amendment Era by decade to show how power adapts, resists, and survives over time.",
+      "tags": [
+        "section:constitutions",
+        "constitutions",
+        "amendments",
+        "index"
+      ],
+      "l2Topics": [],
+      "contentType": "index",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/amendments/index.md"
+    },
     {
       "section": "constitutions",
       "slug": "arkansas-amendment-era",
@@ -12,137 +317,179 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [
+        "foundations"
+      ],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 22,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-amendment-era.md"
     },
     {
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1836",
       "url": "/constitutions/arkansas-constitution-of-1836",
       "title": "Arkansas Constitution of 1836",
-      "description": "Arkansas became a state in 1836 amid rapid westward expansion, Indigenous removal, and the expansion of slavery.",
+      "description": "Arkansas became a state in 1836 amid land seizure, Indigenous removal, and the expansion of slavery. Its first constitution did not simply define government—it localized power, hardened exclusion, and shaped how authority would be felt on the ground for generations.",
       "tags": [
         "migration:scope",
-        "section:constitutions"
+        "section:constitutions",
+        "constitutions",
+        "foundations"
       ],
+      "l2Topics": [
+        "foundations"
+      ],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 12,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
-    },
-    {
-      "section": "constitutions",
-      "slug": "arkansas-constitution-of-1836.from_quarantine",
-      "url": "/constitutions/arkansas-constitution-of-1836.from_quarantine",
-      "title": "Arkansas Constitution of 1836",
-      "description": "Arkansas became a state in 1836 amid rapid westward expansion, Indigenous removal, and the expansion of slavery.",
-      "tags": [
-        "migration:scope",
-        "section:constitutions"
-      ],
-      "date": "",
-      "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-constitution-of-1836.md"
     },
     {
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1861",
       "url": "/constitutions/arkansas-constitution-of-1861",
       "title": "Arkansas Constitution of 1861",
-      "description": "Arkansas Constitution of 1861 (Secession Constitution)",
+      "description": "The Arkansas Constitution of 1861 was a crisis document. Adopted after secession, it preserved Arkansas’ existing power architecture while severing federal allegiance—revealing how little governance actually depended on the Union.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [
+        "foundations"
+      ],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 10,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-constitution-of-1861.md"
     },
     {
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1864",
       "url": "/constitutions/arkansas-constitution-of-1864",
-      "title": "arkansas-constitution-of-1864",
-      "description": "",
-      "tags": [],
+      "title": "Arkansas Constitution of 1864",
+      "description": "The Arkansas Constitution of 1864 was an attempted bridge between Confederate collapse and Reconstruction. It sought legitimacy without surrendering power—and failed.",
+      "tags": [
+        "migration:scope",
+        "section:constitutions"
+      ],
+      "l2Topics": [
+        "foundations"
+      ],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 12,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
-    },
-    {
-      "section": "constitutions",
-      "slug": "arkansas-constitution-of-1864.from_quarantine",
-      "url": "/constitutions/arkansas-constitution-of-1864.from_quarantine",
-      "title": "arkansas-constitution-of-1864.from_quarantine",
-      "description": "",
-      "tags": [],
-      "date": "",
-      "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-constitution-of-1864.md"
     },
     {
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1868",
       "url": "/constitutions/arkansas-constitution-of-1868",
       "title": "Arkansas Constitution of 1868",
-      "description": "Arkansas Constitution of 1868 (Reconstruction Constitution)",
+      "description": "The Arkansas Constitution of 1868 represented an enforced realignment of power. Adopted under federal Reconstruction, it expanded democracy, redefined citizenship, and temporarily broke elite control—triggering the backlash that followed.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [
+        "foundations"
+      ],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 14,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-constitution-of-1868.md"
     },
     {
       "section": "constitutions",
       "slug": "arkansas-constitution-of-1874",
       "url": "/constitutions/arkansas-constitution-of-1874",
-      "title": "arkansas-constitution-of-1874",
-      "description": "",
-      "tags": [],
+      "title": "Arkansas Constitution of 1874",
+      "description": "The Arkansas Constitution of 1874 was a perfected backlash constitution—designed to dismantle Reconstruction, fracture executive power, suppress multiracial democracy, and lock elite control into procedural architecture rather than overt exclusion.",
+      "tags": [
+        "migration:scope",
+        "section:constitutions"
+      ],
+      "l2Topics": [
+        "foundations"
+      ],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 18,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
-    },
-    {
-      "section": "constitutions",
-      "slug": "arkansas-constitution-of-1874.from_quarantine",
-      "url": "/constitutions/arkansas-constitution-of-1874.from_quarantine",
-      "title": "arkansas-constitution-of-1874.from_quarantine",
-      "description": "",
-      "tags": [],
-      "date": "",
-      "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-constitution-of-1874.md"
     },
     {
       "section": "constitutions",
       "slug": "arkansas-constitutions-module-overview",
       "url": "/constitutions/arkansas-constitutions-module-overview",
       "title": "Arkansas Constitutions — Module Overview",
-      "description": "Arkansas Constitutions — Module Overview",
+      "description": "How Arkansas constitutions were designed, contested, and weaponized—and why they still shape power today.",
       "tags": [
         "migration:scope",
         "section:constitutions"
       ],
-      "date": "",
-      "era": "",
-      "place": ""
-    },
-    {
-      "section": "constitutions",
-      "slug": "arkansas-constitutions-module-overview.from_quarantine",
-      "url": "/constitutions/arkansas-constitutions-module-overview.from_quarantine",
-      "title": "Arkansas Constitutions — Module Overview",
-      "description": "Arkansas Constitutions — Module Overview",
-      "tags": [
-        "migration:scope",
-        "section:constitutions"
+      "l2Topics": [
+        "foundations"
       ],
+      "contentType": "overview",
+      "learning": {
+        "mode": "orientation",
+        "estimatedMinutes": 6,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-constitutions-module-overview.md"
     },
     {
       "section": "constitutions",
@@ -154,9 +501,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-political-eras-foundational-periodization.md"
     },
     {
       "section": "constitutions",
@@ -168,9 +525,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/arkansas-political-history-project.md"
     },
     {
       "section": "constitutions",
@@ -182,9 +549,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-28",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-analyze-constitutions-as-power-architecture.md"
     },
     {
       "section": "constitutions",
@@ -196,9 +573,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-28",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-analyze-constitutions-as-power-architecture.from_quarantine.md"
     },
     {
       "section": "constitutions",
@@ -210,9 +597,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-29",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-classify-the-1861-constitution-as-a-failure-state-constitution.md"
     },
     {
       "section": "constitutions",
@@ -224,9 +621,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-29",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-classify-the-1861-constitution-as-a-failure-state-constitution.from_quarantine.md"
     },
     {
       "section": "constitutions",
@@ -238,9 +645,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-30",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-classify-the-1864-constitution-as-an-administrative-bridge.md"
     },
     {
       "section": "constitutions",
@@ -252,9 +669,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-30",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-classify-the-1864-constitution-as-an-administrative-bridge.from_quarantine.md"
     },
     {
       "section": "constitutions",
@@ -266,9 +693,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-27",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-establish-arkansas-political-eras-framework.md"
     },
     {
       "section": "constitutions",
@@ -280,9 +717,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-27",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-establish-arkansas-political-eras-framework.from_quarantine.md"
     },
     {
       "section": "constitutions",
@@ -294,9 +741,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-31",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-frame-the-1868-constitution-as-enforced-democratic-realignment.md"
     },
     {
       "section": "constitutions",
@@ -308,9 +765,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-03-31",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-frame-the-1868-constitution-as-enforced-democratic-realignment.from_quarantine.md"
     },
     {
       "section": "constitutions",
@@ -322,9 +789,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-04-01",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-frame-the-1874-constitution-as-structural-counter-revolution.md"
     },
     {
       "section": "constitutions",
@@ -336,9 +813,19 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-04-02",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-treat-the-amendment-process-as-a-power-structure.md"
     },
     {
       "section": "constitutions",
@@ -350,23 +837,75 @@
         "migration:scope",
         "section:constitutions"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "2025-04-02",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/decision-treat-the-amendment-process-as-a-power-structure.from_quarantine.md"
+    },
+    {
+      "section": "constitutions",
+      "slug": "pre-county-governance-of-arkansas",
+      "url": "/constitutions/pre-county-governance-of-arkansas",
+      "title": "Pre-County Governance of Arkansas",
+      "description": "Before Arkansas had counties, it had systems of control. This explainer traces how land was governed before counties existed — through Indigenous sovereignty, imperial claims, military administration, and federal territorial authority — and why counties emerged as tools of enforcement rather than democracy.",
+      "tags": [
+        "section:constitutions",
+        "governance",
+        "territorial",
+        "indigenous",
+        "land",
+        "political-infrastructure"
+      ],
+      "l2Topics": [],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/pre-county-governance-of-arkansas.md"
     },
     {
       "section": "constitutions",
       "slug": "territorial-governance-of-arkansas",
       "url": "/constitutions/territorial-governance-of-arkansas",
       "title": "Territorial Governance of Arkansas",
-      "description": "Territorial Governance of Arkansas (1803–1836)",
+      "description": "Territorial Governance of Arkansas (1803–1836) — the root power layer feeding into the 1836 Constitution.",
       "tags": [
         "migration:scope",
-        "section:constitutions"
+        "section:constitutions",
+        "constitutions",
+        "era",
+        "territorial-period",
+        "governance-structures"
       ],
+      "l2Topics": [],
+      "contentType": "explainer",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "constitutions/territorial-governance-of-arkansas.md"
     },
     {
       "section": "legislative",
@@ -378,9 +917,19 @@
         "migration:prototype",
         "section:legislative"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "legislative-process/legislature-gatekeeping.md"
     },
     {
       "section": "legislative",
@@ -392,9 +941,19 @@
         "migration:prototype",
         "section:legislative"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "legislative-process/legislature-history.md"
     },
     {
       "section": "legislative",
@@ -406,9 +965,19 @@
         "migration:prototype",
         "section:legislative"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "legislative-process/legislature-index.md"
     },
     {
       "section": "legislative",
@@ -420,9 +989,19 @@
         "migration:prototype",
         "section:legislative"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "legislative-process/legislature-index.from_quarantine.md"
     },
     {
       "section": "legislative",
@@ -434,23 +1013,45 @@
         "migration:prototype",
         "section:legislative"
       ],
+      "l2Topics": [],
+      "contentType": "reference",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "legislative-process/legislature-process-modern.md"
     },
     {
       "section": "pages",
       "slug": "constitutions-index",
       "url": "/p/constitutions-index",
-      "title": "constitutions_index.md",
-      "description": "Arkansas has not had one constitution, but several â€” each reflecting the political conditions, power struggles, and exclusions of its time.",
+      "title": "Arkansas Constitutions Index",
+      "description": "Arkansas has not had one constitution, but several—each reflecting the political conditions, power struggles, and exclusions of its time. This index traces how power was structured, enforced, and preserved across constitutional eras.",
       "tags": [
-        "migration:prototype",
-        "section:pages"
+        "migration:scope",
+        "section:constitutions",
+        "constitutions",
+        "index"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/constitutions-index.md"
     },
     {
       "section": "pages",
@@ -462,9 +1063,19 @@
         "migration:prototype",
         "section:pages"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/design-principles.md"
     },
     {
       "section": "pages",
@@ -475,9 +1086,19 @@
       "tags": [
         "project:home"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/index.md"
     },
     {
       "section": "pages",
@@ -488,9 +1109,19 @@
       "tags": [
         "project:home"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/index.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -501,9 +1132,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/arkansas-political-history-project.md"
     },
     {
       "section": "pages",
@@ -514,9 +1155,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/content-standards-md.md"
     },
     {
       "section": "pages",
@@ -527,9 +1178,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/core-principles-arkansas-political-history-project.md"
     },
     {
       "section": "pages",
@@ -540,9 +1201,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/data-data-dictionary-md.md"
     },
     {
       "section": "pages",
@@ -553,9 +1224,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/data-place-registry-md.md"
     },
     {
       "section": "pages",
@@ -566,9 +1247,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/data-provenance-schema-md.md"
     },
     {
       "section": "pages",
@@ -579,9 +1270,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/decision-initialize-the-brain-of-the-build.md"
     },
     {
       "section": "pages",
@@ -592,9 +1293,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/editorial-style-guide-md.md"
     },
     {
       "section": "pages",
@@ -605,9 +1316,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/folder-tree.md"
     },
     {
       "section": "pages",
@@ -618,9 +1339,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-contribution-process-md.md"
     },
     {
       "section": "pages",
@@ -631,9 +1362,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-contribution-process-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -644,9 +1385,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-disagreement-md.md"
     },
     {
       "section": "pages",
@@ -657,9 +1408,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-ethics-md.md"
     },
     {
       "section": "pages",
@@ -670,9 +1431,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-ethics-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -683,9 +1454,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-index-md.md"
     },
     {
       "section": "pages",
@@ -696,9 +1477,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-index-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -709,9 +1500,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-principles-md.md"
     },
     {
       "section": "pages",
@@ -722,9 +1523,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-roles-md.md"
     },
     {
       "section": "pages",
@@ -735,9 +1546,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-roles-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -748,9 +1569,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-standup-arkansas-role-md.md"
     },
     {
       "section": "pages",
@@ -761,9 +1592,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-transparency-md.md"
     },
     {
       "section": "pages",
@@ -774,9 +1615,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/governance-transparency-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -787,9 +1638,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/guiding-rules-for-data-in-this-archive.md"
     },
     {
       "section": "pages",
@@ -800,9 +1661,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/master-vision-arkansas-political-history-project.md"
     },
     {
       "section": "pages",
@@ -813,9 +1684,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/netlify-toml.md"
     },
     {
       "section": "pages",
@@ -826,9 +1707,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/non-negotiables-arkansas-political-history-project.md"
     },
     {
       "section": "pages",
@@ -839,9 +1730,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/page-components-spec-md.md"
     },
     {
       "section": "pages",
@@ -852,9 +1753,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/routing-and-slugs-spec-md.md"
     },
     {
       "section": "pages",
@@ -865,9 +1776,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/search-index-md.md"
     },
     {
       "section": "pages",
@@ -878,9 +1799,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/search-result-card-spec-md.md"
     },
     {
       "section": "pages",
@@ -891,9 +1822,42 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/search-tagging-cross-linking-logic.md"
+    },
+    {
+      "section": "pages",
+      "slug": "misc/site-svelte-config-js",
+      "url": "/p/misc/site-svelte-config-js",
+      "title": "site_svelte.config.js_",
+      "description": "import adapter from '@sveltejs/adapter-netlify';",
+      "tags": [
+        "migration:uncategorized"
+      ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/site-svelte-config-js.md"
     },
     {
       "section": "pages",
@@ -904,9 +1868,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/sourcing-format-spec-md.md"
     },
     {
       "section": "pages",
@@ -917,9 +1891,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-index-md.md"
     },
     {
       "section": "pages",
@@ -930,9 +1914,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-criminal-justice-md.md"
     },
     {
       "section": "pages",
@@ -943,9 +1937,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-criminal-justice-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -956,9 +1960,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-education-md.md"
     },
     {
       "section": "pages",
@@ -969,9 +1983,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-education-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -982,9 +2006,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-elections-representation-md.md"
     },
     {
       "section": "pages",
@@ -995,9 +2029,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-elections-representation-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1008,9 +2052,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-environment-water-md.md"
     },
     {
       "section": "pages",
@@ -1021,9 +2075,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-environment-water-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1034,9 +2098,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-index-md.md"
     },
     {
       "section": "pages",
@@ -1047,9 +2121,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-labor-economy-md.md"
     },
     {
       "section": "pages",
@@ -1060,9 +2144,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-labor-economy-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1073,9 +2167,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-local-government-md.md"
     },
     {
       "section": "pages",
@@ -1086,9 +2190,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-policy-areas-local-government-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1099,9 +2213,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-disenfranchisement-md.md"
     },
     {
       "section": "pages",
@@ -1112,9 +2236,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-disenfranchisement-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1125,9 +2259,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-executive-weakening-md.md"
     },
     {
       "section": "pages",
@@ -1138,9 +2282,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-executive-weakening-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1151,9 +2305,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-index-md.md"
     },
     {
       "section": "pages",
@@ -1164,9 +2328,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-index-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1177,9 +2351,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-judicial-delay-md.md"
     },
     {
       "section": "pages",
@@ -1190,9 +2374,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-judicial-delay-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1203,9 +2397,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-preemption-md.md"
     },
     {
       "section": "pages",
@@ -1216,9 +2420,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-preemption-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1229,9 +2443,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-procedural-supremacy-md.md"
     },
     {
       "section": "pages",
@@ -1242,9 +2466,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/tags-power-mechanisms-procedural-supremacy-md.from_quarantine.md"
     },
     {
       "section": "pages",
@@ -1255,9 +2489,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/taxonomy-registry-md.md"
     },
     {
       "section": "pages",
@@ -1268,9 +2512,19 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/technical-build-plan.md"
     },
     {
       "section": "pages",
@@ -1281,9 +2535,48 @@
       "tags": [
         "migration:uncategorized"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/misc/visual-layout-interaction-specification.md"
+    },
+    {
+      "section": "pages",
+      "slug": "specs/interactive-county-map-archetype-filters",
+      "url": "/p/specs/interactive-county-map-archetype-filters",
+      "title": "Interactive County Map Spec — Archetype Filters",
+      "description": "Specification for an interactive Arkansas county map that filters by county archetype (Impact, Enforcement, Decision, Legitimacy), supports search and comparisons, and deep-links into county overlay pages and related throughlines.",
+      "tags": [
+        "section:pages",
+        "maps",
+        "counties",
+        "archetypes",
+        "spec",
+        "ui",
+        "build"
+      ],
+      "l2Topics": [],
+      "contentType": "spec",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/specs/interactive-county-map-archetype-filters.md"
     },
     {
       "section": "pages",
@@ -1292,9 +2585,19 @@
       "title": "Start Here",
       "description": "Test",
       "tags": [],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/start-here.md"
     },
     {
       "section": "pages",
@@ -1305,22 +2608,45 @@
       "tags": [
         "project:onboarding"
       ],
+      "l2Topics": [],
+      "contentType": "page",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "pages/start-here.from_quarantine.md"
     },
     {
       "section": "frameworks",
       "slug": "index",
       "url": "/power/index",
-      "title": "Power in Arkansas",
-      "description": "A framework for seeing the machine — rules, courts, money, narrative, and gatekeepers.",
+      "title": "Power Frameworks",
+      "description": "A pattern-based system for understanding how power operates in Arkansas—across constitutions, courts, geography, and time. These frameworks explain why reform fails, how authority hides, and where leverage actually exists.",
       "tags": [
-        "module:power"
+        "module:power",
+        "module:frameworks",
+        "analysis:systems",
+        "frameworks"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/index.md"
     },
     {
       "section": "frameworks",
@@ -1331,9 +2657,299 @@
       "tags": [
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/index.from_quarantine.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/backlash-as-system",
+      "url": "/power/patterns/backlash-as-system",
+      "title": "Backlash as System",
+      "description": "Backlash as system describes how power responds to democratic disruption not through reactionary moments alone, but by redesigning institutions, rules, and incentives so that future challenges are neutralized before they begin.",
+      "tags": [
+        "framework:power",
+        "pattern:backlash",
+        "pattern:institutional-design",
+        "pattern:control"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 14,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/backlash-as-system.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/delay-as-denial",
+      "url": "/power/patterns/delay-as-denial",
+      "title": "Delay as Denial",
+      "description": "Delay as denial explains how power avoids accountability and neutralizes reform by stretching processes across time until urgency, participation, and consequence collapse.",
+      "tags": [
+        "framework:power",
+        "pattern:delay",
+        "pattern:denial",
+        "pattern:time"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 14,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/delay-as-denial.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/elite-continuity-through-turnover",
+      "url": "/power/patterns/elite-continuity-through-turnover",
+      "title": "Elite Continuity Through Turnover",
+      "description": "Elite continuity through turnover explains how power persists across elections, administrations, and generations by preserving systems, norms, and networks while allowing personnel to change.",
+      "tags": [
+        "framework:power",
+        "pattern:elite",
+        "pattern:continuity",
+        "pattern:turnover"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 13,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/elite-continuity-through-turnover.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/execcutive-fragmentation-as-anti-enforcement",
+      "url": "/power/patterns/execcutive-fragmentation-as-anti-enforcement",
+      "title": "Executive Fragmentation as Anti-Enforcement",
+      "description": "Executive fragmentation as anti-enforcement explains how power neutralizes law not by opposing it, but by dividing responsibility so thoroughly that no one can enforce it.",
+      "tags": [
+        "framework:power",
+        "pattern:executive",
+        "pattern:fragmentation",
+        "pattern:enforcement"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 15,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/execcutive-fragmentation-as-anti-enforcement.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/friction-as-governance",
+      "url": "/power/patterns/friction-as-governance",
+      "title": "Friction as Governance",
+      "description": "Friction as governance describes how power governs not by stopping action outright, but by increasing effort, delay, cost, confusion, and exhaustion until participation collapses on its own.",
+      "tags": [
+        "framework:power",
+        "pattern:friction",
+        "pattern:governance",
+        "pattern:exhaustion"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 13,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/friction-as-governance.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/geographic-dilution-of-power",
+      "url": "/power/patterns/geographic-dilution-of-power",
+      "title": "Geographic Dilution of Power",
+      "description": "Geographic dilution of power explains how political systems distribute authority across space in ways that weaken majorities, fragment accountability, and allow minority rule to persist without overt suppression.",
+      "tags": [
+        "framework:power",
+        "pattern:geography",
+        "pattern:dilution",
+        "pattern:representation"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 14,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/geographic-dilution-of-power.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/half-reform-as-control",
+      "url": "/power/patterns/half-reform-as-control",
+      "title": "Half-Reform as Control",
+      "description": "Half-reform is not a failure of reform—it is a strategy of power. By conceding surface change while preserving control mechanisms, elites stabilize systems without surrendering authority.",
+      "tags": [
+        "framework:power",
+        "pattern:control",
+        "pattern:reform",
+        "pattern:backlash"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 10,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/half-reform-as-control.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/institutional-memory-as-power",
+      "url": "/power/patterns/institutional-memory-as-power",
+      "title": "Institutional Memory as Power",
+      "description": "Institutional memory as power explains how knowledge of past rules, failures, loopholes, and precedents allows entrenched actors to outmaneuver reformers who must learn the system from scratch each time.",
+      "tags": [
+        "framework:power",
+        "pattern:memory",
+        "pattern:institutions",
+        "pattern:advantage"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 15,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/institutional-memory-as-power.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/legitimacy-laundering",
+      "url": "/power/patterns/legitimacy-laundering",
+      "title": "Legitimacy Laundering",
+      "description": "Legitimacy laundering explains how power maintains public trust by wrapping exclusionary outcomes in procedural correctness, neutral language, and institutional ritual.",
+      "tags": [
+        "framework:power",
+        "pattern:legitimacy",
+        "pattern:procedure",
+        "pattern:laundering"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 13,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/legitimacy-laundering.md"
+    },
+    {
+      "section": "frameworks",
+      "slug": "patterns/procedural-supremacy",
+      "url": "/power/patterns/procedural-supremacy",
+      "title": "Procedural Supremacy",
+      "description": "Procedural supremacy is the exercise of power through rules, thresholds, timelines, and technical compliance rather than policy debate or explicit exclusion. It allows elites to control outcomes while maintaining the appearance of neutrality.",
+      "tags": [
+        "framework:power",
+        "pattern:procedure",
+        "pattern:control",
+        "pattern:democracy"
+      ],
+      "l2Topics": [
+        "power"
+      ],
+      "contentType": "framework",
+      "learning": {
+        "mode": "analysis",
+        "estimatedMinutes": 12,
+        "interactives": []
+      },
+      "date": "",
+      "era": "",
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/patterns/procedural-supremacy.md"
     },
     {
       "section": "frameworks",
@@ -1342,9 +2958,19 @@
       "title": "power/courts",
       "description": "",
       "tags": [],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/courts.md"
     },
     {
       "section": "frameworks",
@@ -1353,9 +2979,19 @@
       "title": "power/courts.from_quarantine",
       "description": "",
       "tags": [],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/courts.from_quarantine.md"
     },
     {
       "section": "frameworks",
@@ -1368,9 +3004,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/gatekeepers.md"
     },
     {
       "section": "frameworks",
@@ -1383,9 +3029,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/gatekeepers.from_quarantine.md"
     },
     {
       "section": "frameworks",
@@ -1398,9 +3054,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/geography.md"
     },
     {
       "section": "frameworks",
@@ -1413,9 +3079,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/geography.from_quarantine.md"
     },
     {
       "section": "frameworks",
@@ -1428,9 +3104,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/index.md"
     },
     {
       "section": "frameworks",
@@ -1443,9 +3129,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/money.md"
     },
     {
       "section": "frameworks",
@@ -1458,9 +3154,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/narrative.md"
     },
     {
       "section": "frameworks",
@@ -1473,9 +3179,19 @@
         "section:power",
         "module:power"
       ],
+      "l2Topics": [],
+      "contentType": "framework",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "frameworks/power/rules.md"
     },
     {
       "section": "sources",
@@ -1487,9 +3203,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-claims.md"
     },
     {
       "section": "sources",
@@ -1501,9 +3227,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-conflict-and-uncertainty.md"
     },
     {
       "section": "sources",
@@ -1515,9 +3251,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-conflict-and-uncertainty.from_quarantine.md"
     },
     {
       "section": "sources",
@@ -1529,9 +3275,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-index.md"
     },
     {
       "section": "sources",
@@ -1543,9 +3299,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-index.from_quarantine.md"
     },
     {
       "section": "sources",
@@ -1557,9 +3323,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-intake.md"
     },
     {
       "section": "sources",
@@ -1571,9 +3347,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-intake.from_quarantine.md"
     },
     {
       "section": "sources",
@@ -1585,9 +3371,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-revisions.md"
     },
     {
       "section": "sources",
@@ -1599,9 +3395,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-revisions.from_quarantine.md"
     },
     {
       "section": "sources",
@@ -1613,9 +3419,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-source-types.md"
     },
     {
       "section": "sources",
@@ -1627,9 +3443,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-source-types.from_quarantine.md"
     },
     {
       "section": "sources",
@@ -1641,9 +3467,19 @@
         "migration:prototype",
         "section:sources"
       ],
+      "l2Topics": [],
+      "contentType": "source",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "sources/sources-standards.md"
     },
     {
       "section": "timelines",
@@ -1656,9 +3492,19 @@
         "section:timeline",
         "type:era"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/eras/era-template.md"
     },
     {
       "section": "timelines",
@@ -1671,9 +3517,19 @@
         "power:constitution",
         "power:enforcement"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/eras/reconstruction.md"
     },
     {
       "section": "timelines",
@@ -1686,9 +3542,19 @@
         "section:timeline",
         "type:era"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "Reconstruction",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/eras/reconstruction-era.md"
     },
     {
       "section": "timelines",
@@ -1701,9 +3567,19 @@
         "section:timeline",
         "type:era"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "Reconstruction",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/eras/reconstruction-era.from_quarantine.md"
     },
     {
       "section": "timelines",
@@ -1716,9 +3592,19 @@
         "section:timeline",
         "type:event"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "YYYY-MM-DD (or range)",
       "era": "Era Name",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/events/event-template.md"
     },
     {
       "section": "timelines",
@@ -1731,9 +3617,19 @@
         "section:timeline",
         "type:event"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "YYYY-MM-DD (or range)",
       "era": "Era Name",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/events/event-template.from_quarantine.md"
     },
     {
       "section": "timelines",
@@ -1746,9 +3642,19 @@
         "section:timeline",
         "type:event"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/events/example-event.md"
     },
     {
       "section": "timelines",
@@ -1761,9 +3667,19 @@
         "section:timeline",
         "type:event"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/events/example-event.from_quarantine.md"
     },
     {
       "section": "timelines",
@@ -1774,12 +3690,202 @@
       "tags": [
         "module:timeline"
       ],
+      "l2Topics": [],
+      "contentType": "timeline",
+      "learning": {
+        "mode": "",
+        "estimatedMinutes": null,
+        "interactives": []
+      },
       "date": "",
       "era": "",
-      "place": ""
+      "place": "",
+      "sourceUrl": "",
+      "citation": "",
+      "sourcePath": "timelines/index.md"
     }
   ],
   "tags": [
+    {
+      "tag": "administrative-state",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1930s"
+      ]
+    },
+    {
+      "tag": "agrarian-revolt",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1890s"
+      ]
+    },
+    {
+      "tag": "amendments",
+      "count": 11,
+      "urls": [
+        "/constitutions/amendments/1870s",
+        "/constitutions/amendments/1880s",
+        "/constitutions/amendments/1890s",
+        "/constitutions/amendments/1900s",
+        "/constitutions/amendments/1930s",
+        "/constitutions/amendments/1960s",
+        "/constitutions/amendments/1990s",
+        "/constitutions/amendments/2010s",
+        "/constitutions/amendments/2020s",
+        "/constitutions/amendments/direct-democracy-throughline",
+        "/constitutions/amendments/index"
+      ]
+    },
+    {
+      "tag": "analysis:systems",
+      "count": 1,
+      "urls": [
+        "/power/index"
+      ]
+    },
+    {
+      "tag": "archetypes",
+      "count": 1,
+      "urls": [
+        "/p/specs/interactive-county-map-archetype-filters"
+      ]
+    },
+    {
+      "tag": "backlash-politics",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1960s"
+      ]
+    },
+    {
+      "tag": "build",
+      "count": 1,
+      "urls": [
+        "/p/specs/interactive-county-map-archetype-filters"
+      ]
+    },
+    {
+      "tag": "civil-rights",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1960s"
+      ]
+    },
+    {
+      "tag": "consolidation",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1880s"
+      ]
+    },
+    {
+      "tag": "constitutions",
+      "count": 13,
+      "urls": [
+        "/constitutions/amendments/1870s",
+        "/constitutions/amendments/1880s",
+        "/constitutions/amendments/1890s",
+        "/constitutions/amendments/1900s",
+        "/constitutions/amendments/1930s",
+        "/constitutions/amendments/1960s",
+        "/constitutions/amendments/1990s",
+        "/constitutions/amendments/2020s",
+        "/constitutions/amendments/direct-democracy-throughline",
+        "/constitutions/amendments/index",
+        "/constitutions/arkansas-constitution-of-1836",
+        "/constitutions/territorial-governance-of-arkansas",
+        "/p/constitutions-index"
+      ]
+    },
+    {
+      "tag": "counties",
+      "count": 1,
+      "urls": [
+        "/p/specs/interactive-county-map-archetype-filters"
+      ]
+    },
+    {
+      "tag": "courts",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/2010s"
+      ]
+    },
+    {
+      "tag": "decade:1870s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1870s"
+      ]
+    },
+    {
+      "tag": "decade:1880s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1880s"
+      ]
+    },
+    {
+      "tag": "decade:1890s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1890s"
+      ]
+    },
+    {
+      "tag": "decade:1900s-1920s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1900s"
+      ]
+    },
+    {
+      "tag": "decade:1930s-1950s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1930s"
+      ]
+    },
+    {
+      "tag": "decade:1960s-1980s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1960s"
+      ]
+    },
+    {
+      "tag": "decade:1990s-2000s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1990s"
+      ]
+    },
+    {
+      "tag": "decade:2020s",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/2020s"
+      ]
+    },
+    {
+      "tag": "direct-democracy",
+      "count": 5,
+      "urls": [
+        "/constitutions/amendments/1900s",
+        "/constitutions/amendments/1990s",
+        "/constitutions/amendments/2010s",
+        "/constitutions/amendments/2020s",
+        "/constitutions/amendments/direct-democracy-throughline"
+      ]
+    },
+    {
+      "tag": "era",
+      "count": 1,
+      "urls": [
+        "/constitutions/territorial-governance-of-arkansas"
+      ]
+    },
     {
       "tag": "era:reconstruction",
       "count": 1,
@@ -1788,15 +3894,101 @@
       ]
     },
     {
+      "tag": "foundations",
+      "count": 1,
+      "urls": [
+        "/constitutions/arkansas-constitution-of-1836"
+      ]
+    },
+    {
+      "tag": "framework:power",
+      "count": 10,
+      "urls": [
+        "/power/patterns/backlash-as-system",
+        "/power/patterns/delay-as-denial",
+        "/power/patterns/elite-continuity-through-turnover",
+        "/power/patterns/execcutive-fragmentation-as-anti-enforcement",
+        "/power/patterns/friction-as-governance",
+        "/power/patterns/geographic-dilution-of-power",
+        "/power/patterns/half-reform-as-control",
+        "/power/patterns/institutional-memory-as-power",
+        "/power/patterns/legitimacy-laundering",
+        "/power/patterns/procedural-supremacy"
+      ]
+    },
+    {
+      "tag": "frameworks",
+      "count": 1,
+      "urls": [
+        "/power/index"
+      ]
+    },
+    {
+      "tag": "governance",
+      "count": 1,
+      "urls": [
+        "/constitutions/pre-county-governance-of-arkansas"
+      ]
+    },
+    {
+      "tag": "governance-structures",
+      "count": 1,
+      "urls": [
+        "/constitutions/territorial-governance-of-arkansas"
+      ]
+    },
+    {
+      "tag": "index",
+      "count": 2,
+      "urls": [
+        "/constitutions/amendments/index",
+        "/p/constitutions-index"
+      ]
+    },
+    {
+      "tag": "indigenous",
+      "count": 1,
+      "urls": [
+        "/constitutions/pre-county-governance-of-arkansas"
+      ]
+    },
+    {
+      "tag": "initiative",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/direct-democracy-throughline"
+      ]
+    },
+    {
+      "tag": "judicial-gatekeeping",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/2020s"
+      ]
+    },
+    {
+      "tag": "land",
+      "count": 1,
+      "urls": [
+        "/constitutions/pre-county-governance-of-arkansas"
+      ]
+    },
+    {
+      "tag": "maps",
+      "count": 1,
+      "urls": [
+        "/p/specs/interactive-county-map-archetype-filters"
+      ]
+    },
+    {
       "tag": "migration:prototype",
-      "count": 34,
+      "count": 33,
       "urls": [
         "/legislative/legislature-gatekeeping",
         "/legislative/legislature-history",
         "/legislative/legislature-index",
         "/legislative/legislature-index.from_quarantine",
         "/legislative/legislature-process-modern",
-        "/p/constitutions-index",
         "/p/design-principles",
         "/power/power/gatekeepers",
         "/power/power/gatekeepers.from_quarantine",
@@ -1829,15 +4021,15 @@
     },
     {
       "tag": "migration:scope",
-      "count": 23,
+      "count": 24,
       "urls": [
         "/constitutions/arkansas-amendment-era",
         "/constitutions/arkansas-constitution-of-1836",
-        "/constitutions/arkansas-constitution-of-1836.from_quarantine",
         "/constitutions/arkansas-constitution-of-1861",
+        "/constitutions/arkansas-constitution-of-1864",
         "/constitutions/arkansas-constitution-of-1868",
+        "/constitutions/arkansas-constitution-of-1874",
         "/constitutions/arkansas-constitutions-module-overview",
-        "/constitutions/arkansas-constitutions-module-overview.from_quarantine",
         "/constitutions/arkansas-political-eras-foundational-periodization",
         "/constitutions/arkansas-political-history-project",
         "/constitutions/decision-analyze-constitutions-as-power-architecture",
@@ -1853,12 +4045,13 @@
         "/constitutions/decision-frame-the-1874-constitution-as-structural-counter-revolution",
         "/constitutions/decision-treat-the-amendment-process-as-a-power-structure",
         "/constitutions/decision-treat-the-amendment-process-as-a-power-structure.from_quarantine",
-        "/constitutions/territorial-governance-of-arkansas"
+        "/constitutions/territorial-governance-of-arkansas",
+        "/p/constitutions-index"
       ]
     },
     {
       "tag": "migration:uncategorized",
-      "count": 61,
+      "count": 62,
       "urls": [
         "/p/misc/arkansas-political-history-project",
         "/p/misc/content-standards-md",
@@ -1891,6 +4084,7 @@
         "/p/misc/search-index-md",
         "/p/misc/search-result-card-spec-md",
         "/p/misc/search-tagging-cross-linking-logic",
+        "/p/misc/site-svelte-config-js",
         "/p/misc/sourcing-format-spec-md",
         "/p/misc/tags-index-md",
         "/p/misc/tags-policy-areas-criminal-justice-md",
@@ -1924,6 +4118,20 @@
       ]
     },
     {
+      "tag": "modern-era",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/2010s"
+      ]
+    },
+    {
+      "tag": "module:frameworks",
+      "count": 1,
+      "urls": [
+        "/power/index"
+      ]
+    },
+    {
       "tag": "module:power",
       "count": 10,
       "urls": [
@@ -1947,6 +4155,213 @@
       ]
     },
     {
+      "tag": "new-deal",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1930s"
+      ]
+    },
+    {
+      "tag": "pattern:advantage",
+      "count": 1,
+      "urls": [
+        "/power/patterns/institutional-memory-as-power"
+      ]
+    },
+    {
+      "tag": "pattern:backlash",
+      "count": 2,
+      "urls": [
+        "/power/patterns/backlash-as-system",
+        "/power/patterns/half-reform-as-control"
+      ]
+    },
+    {
+      "tag": "pattern:continuity",
+      "count": 1,
+      "urls": [
+        "/power/patterns/elite-continuity-through-turnover"
+      ]
+    },
+    {
+      "tag": "pattern:control",
+      "count": 3,
+      "urls": [
+        "/power/patterns/backlash-as-system",
+        "/power/patterns/half-reform-as-control",
+        "/power/patterns/procedural-supremacy"
+      ]
+    },
+    {
+      "tag": "pattern:delay",
+      "count": 1,
+      "urls": [
+        "/power/patterns/delay-as-denial"
+      ]
+    },
+    {
+      "tag": "pattern:democracy",
+      "count": 1,
+      "urls": [
+        "/power/patterns/procedural-supremacy"
+      ]
+    },
+    {
+      "tag": "pattern:denial",
+      "count": 1,
+      "urls": [
+        "/power/patterns/delay-as-denial"
+      ]
+    },
+    {
+      "tag": "pattern:dilution",
+      "count": 1,
+      "urls": [
+        "/power/patterns/geographic-dilution-of-power"
+      ]
+    },
+    {
+      "tag": "pattern:elite",
+      "count": 1,
+      "urls": [
+        "/power/patterns/elite-continuity-through-turnover"
+      ]
+    },
+    {
+      "tag": "pattern:enforcement",
+      "count": 1,
+      "urls": [
+        "/power/patterns/execcutive-fragmentation-as-anti-enforcement"
+      ]
+    },
+    {
+      "tag": "pattern:executive",
+      "count": 1,
+      "urls": [
+        "/power/patterns/execcutive-fragmentation-as-anti-enforcement"
+      ]
+    },
+    {
+      "tag": "pattern:exhaustion",
+      "count": 1,
+      "urls": [
+        "/power/patterns/friction-as-governance"
+      ]
+    },
+    {
+      "tag": "pattern:fragmentation",
+      "count": 1,
+      "urls": [
+        "/power/patterns/execcutive-fragmentation-as-anti-enforcement"
+      ]
+    },
+    {
+      "tag": "pattern:friction",
+      "count": 1,
+      "urls": [
+        "/power/patterns/friction-as-governance"
+      ]
+    },
+    {
+      "tag": "pattern:geography",
+      "count": 1,
+      "urls": [
+        "/power/patterns/geographic-dilution-of-power"
+      ]
+    },
+    {
+      "tag": "pattern:governance",
+      "count": 1,
+      "urls": [
+        "/power/patterns/friction-as-governance"
+      ]
+    },
+    {
+      "tag": "pattern:institutional-design",
+      "count": 1,
+      "urls": [
+        "/power/patterns/backlash-as-system"
+      ]
+    },
+    {
+      "tag": "pattern:institutions",
+      "count": 1,
+      "urls": [
+        "/power/patterns/institutional-memory-as-power"
+      ]
+    },
+    {
+      "tag": "pattern:laundering",
+      "count": 1,
+      "urls": [
+        "/power/patterns/legitimacy-laundering"
+      ]
+    },
+    {
+      "tag": "pattern:legitimacy",
+      "count": 1,
+      "urls": [
+        "/power/patterns/legitimacy-laundering"
+      ]
+    },
+    {
+      "tag": "pattern:memory",
+      "count": 1,
+      "urls": [
+        "/power/patterns/institutional-memory-as-power"
+      ]
+    },
+    {
+      "tag": "pattern:procedure",
+      "count": 2,
+      "urls": [
+        "/power/patterns/legitimacy-laundering",
+        "/power/patterns/procedural-supremacy"
+      ]
+    },
+    {
+      "tag": "pattern:reform",
+      "count": 1,
+      "urls": [
+        "/power/patterns/half-reform-as-control"
+      ]
+    },
+    {
+      "tag": "pattern:representation",
+      "count": 1,
+      "urls": [
+        "/power/patterns/geographic-dilution-of-power"
+      ]
+    },
+    {
+      "tag": "pattern:time",
+      "count": 1,
+      "urls": [
+        "/power/patterns/delay-as-denial"
+      ]
+    },
+    {
+      "tag": "pattern:turnover",
+      "count": 1,
+      "urls": [
+        "/power/patterns/elite-continuity-through-turnover"
+      ]
+    },
+    {
+      "tag": "political-infrastructure",
+      "count": 1,
+      "urls": [
+        "/constitutions/pre-county-governance-of-arkansas"
+      ]
+    },
+    {
+      "tag": "populism",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1890s"
+      ]
+    },
+    {
       "tag": "power:constitution",
       "count": 1,
       "urls": [
@@ -1958,6 +4373,27 @@
       "count": 1,
       "urls": [
         "/timeline/eras/reconstruction"
+      ]
+    },
+    {
+      "tag": "procedural-supremacy",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/2020s"
+      ]
+    },
+    {
+      "tag": "procedural-warfare",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1990s"
+      ]
+    },
+    {
+      "tag": "progressive-era",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/1900s"
       ]
     },
     {
@@ -1976,16 +4412,41 @@
       ]
     },
     {
-      "tag": "section:constitutions",
-      "count": 23,
+      "tag": "reconstruction-backlash",
+      "count": 1,
       "urls": [
+        "/constitutions/amendments/1870s"
+      ]
+    },
+    {
+      "tag": "referendum",
+      "count": 1,
+      "urls": [
+        "/constitutions/amendments/direct-democracy-throughline"
+      ]
+    },
+    {
+      "tag": "section:constitutions",
+      "count": 36,
+      "urls": [
+        "/constitutions/amendments/1870s",
+        "/constitutions/amendments/1880s",
+        "/constitutions/amendments/1890s",
+        "/constitutions/amendments/1900s",
+        "/constitutions/amendments/1930s",
+        "/constitutions/amendments/1960s",
+        "/constitutions/amendments/1990s",
+        "/constitutions/amendments/2010s",
+        "/constitutions/amendments/2020s",
+        "/constitutions/amendments/direct-democracy-throughline",
+        "/constitutions/amendments/index",
         "/constitutions/arkansas-amendment-era",
         "/constitutions/arkansas-constitution-of-1836",
-        "/constitutions/arkansas-constitution-of-1836.from_quarantine",
         "/constitutions/arkansas-constitution-of-1861",
+        "/constitutions/arkansas-constitution-of-1864",
         "/constitutions/arkansas-constitution-of-1868",
+        "/constitutions/arkansas-constitution-of-1874",
         "/constitutions/arkansas-constitutions-module-overview",
-        "/constitutions/arkansas-constitutions-module-overview.from_quarantine",
         "/constitutions/arkansas-political-eras-foundational-periodization",
         "/constitutions/arkansas-political-history-project",
         "/constitutions/decision-analyze-constitutions-as-power-architecture",
@@ -2001,7 +4462,9 @@
         "/constitutions/decision-frame-the-1874-constitution-as-structural-counter-revolution",
         "/constitutions/decision-treat-the-amendment-process-as-a-power-structure",
         "/constitutions/decision-treat-the-amendment-process-as-a-power-structure.from_quarantine",
-        "/constitutions/territorial-governance-of-arkansas"
+        "/constitutions/pre-county-governance-of-arkansas",
+        "/constitutions/territorial-governance-of-arkansas",
+        "/p/constitutions-index"
       ]
     },
     {
@@ -2019,8 +4482,8 @@
       "tag": "section:pages",
       "count": 2,
       "urls": [
-        "/p/constitutions-index",
-        "/p/design-principles"
+        "/p/design-principles",
+        "/p/specs/interactive-county-map-archetype-filters"
       ]
     },
     {
@@ -2069,6 +4532,27 @@
       ]
     },
     {
+      "tag": "spec",
+      "count": 1,
+      "urls": [
+        "/p/specs/interactive-county-map-archetype-filters"
+      ]
+    },
+    {
+      "tag": "territorial",
+      "count": 1,
+      "urls": [
+        "/constitutions/pre-county-governance-of-arkansas"
+      ]
+    },
+    {
+      "tag": "territorial-period",
+      "count": 1,
+      "urls": [
+        "/constitutions/territorial-governance-of-arkansas"
+      ]
+    },
+    {
       "tag": "type:era",
       "count": 3,
       "urls": [
@@ -2085,6 +4569,44 @@
         "/timeline/events/event-template.from_quarantine",
         "/timeline/events/example-event",
         "/timeline/events/example-event.from_quarantine"
+      ]
+    },
+    {
+      "tag": "ui",
+      "count": 1,
+      "urls": [
+        "/p/specs/interactive-county-map-archetype-filters"
+      ]
+    }
+  ],
+  "l2Topics": [
+    {
+      "topic": "foundations",
+      "count": 7,
+      "urls": [
+        "/constitutions/arkansas-amendment-era",
+        "/constitutions/arkansas-constitution-of-1836",
+        "/constitutions/arkansas-constitution-of-1861",
+        "/constitutions/arkansas-constitution-of-1864",
+        "/constitutions/arkansas-constitution-of-1868",
+        "/constitutions/arkansas-constitution-of-1874",
+        "/constitutions/arkansas-constitutions-module-overview"
+      ]
+    },
+    {
+      "topic": "power",
+      "count": 10,
+      "urls": [
+        "/power/patterns/backlash-as-system",
+        "/power/patterns/delay-as-denial",
+        "/power/patterns/elite-continuity-through-turnover",
+        "/power/patterns/execcutive-fragmentation-as-anti-enforcement",
+        "/power/patterns/friction-as-governance",
+        "/power/patterns/geographic-dilution-of-power",
+        "/power/patterns/half-reform-as-control",
+        "/power/patterns/institutional-memory-as-power",
+        "/power/patterns/legitimacy-laundering",
+        "/power/patterns/procedural-supremacy"
       ]
     }
   ]
