@@ -111,7 +111,7 @@
       <div class="mono"><strong>Content root:</strong> {data.contentRoot}</div>
     </div>
   
-    <!-- ✅ a11y fix: tabindex removed -->
+    <!-- ✅ a11y fix: removed tabindex="0" from non-interactive element -->
     <div class="tableWrap" role="region" aria-label="Content list">
       <table class="table">
         <thead>

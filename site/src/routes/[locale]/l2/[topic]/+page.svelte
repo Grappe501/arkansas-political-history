@@ -126,22 +126,29 @@
         </p>
       </div>
   
-      <div class="lens-grid" role="list" aria-label="Lens options">
-        <a class="lens-card" role="listitem" href={lensGeoHref}>
-          <div class="lens-name">Geography</div>
-          <div class="lens-desc">Counties • cities • districts • institutions on the ground</div>
-        </a>
+      <!-- ✅ a11y fix: ul/li for list semantics (no role=listitem on <a>) -->
+      <ul class="lens-grid" aria-label="Lens options">
+        <li class="lens-grid-item">
+          <a class="lens-card" href={lensGeoHref}>
+            <div class="lens-name">Geography</div>
+            <div class="lens-desc">Counties • cities • districts • institutions on the ground</div>
+          </a>
+        </li>
   
-        <a class="lens-card" role="listitem" href={lensDemoHref}>
-          <div class="lens-name">Demographics</div>
-          <div class="lens-desc">Population composition • change over time • who is included/excluded</div>
-        </a>
+        <li class="lens-grid-item">
+          <a class="lens-card" href={lensDemoHref}>
+            <div class="lens-name">Demographics</div>
+            <div class="lens-desc">Population composition • change over time • who is included/excluded</div>
+          </a>
+        </li>
   
-        <a class="lens-card" role="listitem" href={lensPolHref}>
-          <div class="lens-name">Political Structure</div>
-          <div class="lens-desc">Legislature • judiciary • executive • local government • enforcement</div>
-        </a>
-      </div>
+        <li class="lens-grid-item">
+          <a class="lens-card" href={lensPolHref}>
+            <div class="lens-name">Political Structure</div>
+            <div class="lens-desc">Legislature • judiciary • executive • local government • enforcement</div>
+          </a>
+        </li>
+      </ul>
   
       <div class="lens-note" role="note">
         <p>
@@ -309,11 +316,19 @@
       opacity: 0.85;
     }
   
+    /* ✅ ul/li reset so it behaves like your prior div grid */
     .lens-grid {
+      list-style: none;
+      padding: 0;
+      margin: 0.75rem 0 0 0;
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 0.75rem;
-      margin-top: 0.75rem;
+    }
+  
+    .lens-grid-item {
+      margin: 0;
+      padding: 0;
     }
   
     .lens-card {
@@ -541,62 +556,60 @@
       flex-wrap: wrap;
       gap: 0.35rem;
     }
-  
     .tag {
-      display: inline-block;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      padding: 0.12rem 0.5rem;
-      font-size: 0.8rem;
-      opacity: 0.92;
-      background: rgba(0, 0, 0, 0.02);
-    }
-  
-    :global(:root[data-resolved-theme='dark']) .tag {
-      background: rgba(255, 255, 255, 0.03);
-    }
-  
-    .mono {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    }
-  
-    .callout {
-      margin-top: 1rem;
-      padding: 0.9rem 1rem;
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      background: rgba(0, 0, 0, 0.02);
-    }
-  
-    :global(:root[data-resolved-theme='dark']) .callout {
-      background: rgba(255, 255, 255, 0.03);
-    }
-  
-    .actions {
-      margin-top: 1.25rem;
-    }
-  
-    .button {
-      display: inline-block;
-      padding: 0.65rem 0.9rem;
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      text-decoration: none;
-      font-weight: 600;
-      background: rgba(0, 0, 0, 0.02);
-    }
-  
-    :global(:root[data-resolved-theme='dark']) .button {
-      background: rgba(255, 255, 255, 0.03);
-    }
-  
-    .button:hover {
-      text-decoration: underline;
-    }
-  
-    .button:focus-visible {
-      outline: 3px solid rgba(59, 130, 246, 0.65);
-      outline-offset: 3px;
-    }
-  </style>
-  
+    display: inline-block;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.12rem 0.5rem;
+    font-size: 0.8rem;
+    opacity: 0.92;
+    background: rgba(0, 0, 0, 0.02);
+  }
+
+  :global(:root[data-resolved-theme='dark']) .tag {
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .mono {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .callout {
+    margin-top: 1rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    background: rgba(0, 0, 0, 0.02);
+  }
+
+  :global(:root[data-resolved-theme='dark']) .callout {
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .actions {
+    margin-top: 1.25rem;
+  }
+
+  .button {
+    display: inline-block;
+    padding: 0.65rem 0.9rem;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    text-decoration: none;
+    font-weight: 600;
+    background: rgba(0, 0, 0, 0.02);
+  }
+
+  :global(:root[data-resolved-theme='dark']) .button {
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .button:hover {
+    text-decoration: underline;
+  }
+
+  .button:focus-visible {
+    outline: 3px solid rgba(59, 130, 246, 0.65);
+    outline-offset: 3px;
+  }
+</style>

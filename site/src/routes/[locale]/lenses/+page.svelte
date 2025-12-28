@@ -36,14 +36,16 @@
       </p>
     </header>
   
-    <div class="grid" role="list" aria-label="Available lenses">
+    <ul class="grid" aria-label="Available lenses">
       {#each lenses as l (l.slug)}
-        <a class="card" role="listitem" href={`/${locale}/lenses/${l.slug}`}>
-          <div class="card-title">{l.title}</div>
-          <div class="card-desc">{l.description}</div>
-        </a>
+        <li class="grid-item">
+          <a class="card" href={`/${locale}/lenses/${l.slug}`}>
+            <div class="card-title">{l.title}</div>
+            <div class="card-desc">{l.description}</div>
+          </a>
+        </li>
       {/each}
-    </div>
+    </ul>
   
     <div class="note" role="note" aria-label="Build note">
       <p>
@@ -69,9 +71,17 @@
       }
   
       .grid {
+        list-style: none;
+        padding: 0;
+        margin: 0;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
         gap: 0.9rem;
+      }
+  
+      .grid-item {
+        margin: 0;
+        padding: 0;
       }
   
       .card {

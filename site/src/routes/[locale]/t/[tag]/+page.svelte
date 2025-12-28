@@ -1,9 +1,12 @@
 <script lang="ts">
+  import { page } from '$app/stores';
   import { siteConfig } from '$lib/siteConfig';
+
+  $: tag = $page.params.tag;
 </script>
 
 <svelte:head>
-  <title>Tag • {siteConfig.siteName}</title>
+  <title>Tag: {tag} • {siteConfig.siteName}</title>
 </svelte:head>
 
 <section class="prose">
@@ -11,9 +14,8 @@
     <h1>Tag</h1>
   </header>
 
-<p>Tag hub scaffold.</p>
-<p>Tag: <strong>{$page.params.tag}</strong></p>
-
+  <p>Tag hub scaffold.</p>
+  <p>Tag: <strong>{tag}</strong></p>
 </section>
 
 <style>
