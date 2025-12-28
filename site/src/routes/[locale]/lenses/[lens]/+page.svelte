@@ -2,7 +2,13 @@
     import { page } from '$app/stores';
     import { siteConfig } from '$lib/siteConfig';
   
-    type Lens = { slug: string; title: string; description: string; order: number; namespaces: string[] };
+    type Lens = {
+      slug: string;
+      title: string;
+      description: string;
+      order: number;
+      namespaces: string[];
+    };
   
     type ArchiveItem = {
       section: string;
@@ -19,18 +25,20 @@
       place?: string;
     };
   
+    // Make props optional to match defensive usage
     export let data: {
-      locale: string;
-      lens: Lens;
-      items: ArchiveItem[];
-      countsByType: Record<string, number>;
-      facets: { tag: string; count: number }[];
+      locale?: string;
+      lens?: Lens;
+      items?: ArchiveItem[];
+      countsByType?: Record<string, number>;
+      facets?: { tag: string; count: number }[];
     };
   
     $: locale = data?.locale ?? $page.params.locale ?? 'en';
-    $: lens = data.lens;
-    $: itemsAll = (data.items ?? []) as ArchiveItem[];
-    $: facets = (data.facets ?? []) as { tag: string; count: number }[];
+    $: lens = data?.lens;
+    $: itemsAll = (data?.items ?? []) as ArchiveItem[];
+    $: facets = (data?.facets ?? []) as { tag: string; count: number }[];
+    $: countsByType = (data?.countsByType ?? {}) as Record<string, number>;
   
     let selectedFacet: string | null = null;
   
@@ -62,31 +70,37 @@
     }
   
     function itemHref(item: ArchiveItem) {
-      const p = item?.url?.startsWith('/') ? item.url : `/${item?.url ?? ''}`;
+      const raw = item?.url ?? '';
+      const p = raw.startsWith('/') ? raw : `/${raw}`;
+  
+      // Avoid double locale prefix if url already includes it
+      if (p.startsWith(`/${locale}/`)) return p;
+  
       return `/${locale}${p}`;
     }
   </script>
   
   <svelte:head>
-    <title>{lens.title} • Lens Views • {siteConfig.siteName}</title>
+    <title>{lens?.title ?? 'Lens'} • Lens Views • {siteConfig.siteName}</title>
   </svelte:head>
   
   <section class="prose">
     <nav class="crumbs" aria-label="Breadcrumb">
       <a class="crumb" href={`/${locale}/lenses`}>Lens Views</a>
       <span class="sep" aria-hidden="true">/</span>
-      <span class="current" aria-current="page">{lens.title}</span>
+      <span class="current" aria-current="page">{lens?.title ?? 'Lens'}</span>
     </nav>
   
     <header class="topic-header">
-      <h1>{lens.title}</h1>
-      <p class="topic-desc">{lens.description}</p>
+      <h1>{lens?.title ?? 'Lens'}</h1>
+      <p class="topic-desc">{lens?.description ?? ''}</p>
     </header>
   
     {#if facets.length > 0}
       <div class="facet-bar" aria-label="Facet filters">
         <button
-          class="chip {selectedFacet === null ? 'active' : ''}"
+          class="chip"
+          class:active={selectedFacet === null}
           type="button"
           on:click={() => (selectedFacet = null)}
         >
@@ -95,7 +109,8 @@
   
         {#each facets as f (f.tag)}
           <button
-            class="chip {selectedFacet === f.tag ? 'active' : ''}"
+            class="chip"
+            class:active={selectedFacet === f.tag}
             type="button"
             on:click={() => (selectedFacet = selectedFacet === f.tag ? null : f.tag)}
             title={`${f.tag} (${f.count})`}
@@ -113,7 +128,7 @@
         <div class="stat-label">Items</div>
       </div>
   
-      {#each Object.entries(data.countsByType).sort((a, b) => a[0].localeCompare(b[0])) as [t, n] (t)}
+      {#each Object.entries(countsByType).sort((a, b) => a[0].localeCompare(b[0])) as [t, n] (t)}
         <div class="stat">
           <div class="stat-num">{n}</div>
           <div class="stat-label">{prettyType(t)}</div>
@@ -127,7 +142,7 @@
       </div>
     {:else}
       <ul class="list" aria-label="Content list">
-        {#each items as item (item.url)}
+        {#each items as item (item.section + ':' + item.slug)}
           <li class="list-item">
             <a class="item" href={itemHref(item)}>
               <div class="item-top">

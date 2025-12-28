@@ -41,16 +41,20 @@ function typeRank(t?: string) {
 	return TYPE_ORDER[key] ?? 999;
 }
 
-export const load: PageLoad = async ({ params }) => {
+export const load: PageLoad = ({ params }) => {
 	const locale = params.locale ?? 'en';
 	const topicSlug = params.topic;
+
+	if (!topicSlug) {
+		throw error(404, 'Missing Level 2 topic slug');
+	}
 
 	const topic = getL2Topic(topicSlug);
 	if (!topic) {
 		throw error(404, `Unknown Level 2 topic: ${topicSlug}`);
 	}
 
-	const topicItems = (getItemsByL2TopicSlug(topic.slug) as ArchiveItem[]).sort((a, b) => {
+	const topicItems = getItemsByL2TopicSlug(topic.slug).sort((a: ArchiveItem, b: ArchiveItem) => {
 		const ra = typeRank(a.contentType);
 		const rb = typeRank(b.contentType);
 		if (ra !== rb) return ra - rb;
