@@ -1,0 +1,60 @@
+# ───────── Core server/auth ─────────
+HOST=127.0.0.1
+PORT=8010
+CITYHUB_API_KEY=change-me-dev
+ENVIRONMENT=local
+SENTRY_DSN=
+
+# ───────── Local paths / storage ─────────
+LOCAL_UPLOAD_DIR=./backend/data/uploads
+DATA_DIR=./backend/data
+LOG_LEVEL=INFO
+EFA_BASE_DIR=.efa_runtime
+EFA_API_KEY=dev-efa-key
+
+
+# ───────── AI (LLM + embeddings) ─────────
+OPENAI_API_KEY=sk-proj-SgLOinv717u43aELW3NOZFyBoZpR6Nz5AVOxRzhgrVvmqB0zzhv9MG
+OPENAI_MODEL=gpt-4o-mini
+GOOGLE_CIVIC_API_KEY=AIzaSyCHLO
+GOOGLE_API_KEY=AIzaSyCp-B6Ze9Rv          # Gemini
+
+# ───────── Geocoding & Maps ─────────
+GOOGLE_MAPS_API_KEY=AIzaSyCTcp1y1k9
+GOOGLE_PLACES_API_KEY=CG4dIMhGWd8hYGioPnX4    # same as Maps if enabled
+OPENCAGE_API_KEY=935e8588c9b5e8cbb8ec
+OVERPASS_API_URL=https://overpass-api.de/api/interpreter  # for OpenStreetMap (no key)
+
+# ───────── Government & Open Data (US) ─────────
+# 1) Cross-agency gateway key used by several APIs
+API_DOT_GOV_KEY=CBBsL10sbYcq1spqQqSif0h   
+      # api.data.gov key (covers many agencies, inc. OpenFEC)
+# 2) Core federal data sources
+CENSUS_API_KEY=811fb288fb932e7ce82bec
+BLS_API_KEY=579e7721a8e5eea65af9
+
+GOOGLE_CIVIC_API_KEY=AIzaSyCTcp1y1k98hYGioPnX4
+     # Google Civic Information (officials by address)
+OPENSTATES_API_KEY=8d6fb5f6-1ea06-c3478b9657d8       # State legislators/legislation
+NPPES_NPI_API_BASE=https://npiregistry.cms.hhs.gov/api/  # providers (no key)
+TIGER_GEOCODER_BASE=https://geocoding.geo.census.gov/    # Census geocoder (no key)
+CONGRESS_GOV_API_KEY=lQERhtcTyvY4fyLIVbAdNfU0xXBxN
+GOVINFO_API_KEY=hSnW2R9bnj8fO9jjvOrc6cW6YtOQbZnDHaZ
+FBI_CDE_API_KEY=hSnW2R9bnj8fO9jjvnrc6cW6YtOQbZnDHaZ
+OPENFEC_API_KEY=hSnW2R9bnj8fO9jjYtOQbZnDHaZ
+API_DOT_GOV_KEY=hSnW2R9bn5Rnrc6cW6YtOQbZnDHaZ
+OPENFEC_API_KEY=hSnW2R9bnj8fO9jjvOQbZnDHaZ
+GOVINFO_API_KEY=hSnW2R9bnj8fO6cW6YtOQbZnDHaZ
+COLLEGESCORECARD_API_KEY=hSnW2R9bnj8fO6YtOQbZnDHaZ
+OPENFDA_API_KEY=hSnW2R9bnj8fO9jjvOY6YtOQbZnDHaZ
+FEMA_API_KEY=hSnW2R9bnj8fcW6YtOQbZnDHaZ
+
+
+# ───────── State/City Open Data (Socrata & CKAN) ─────────
+SOCRATA_APP_TOKEN=hSnW2R9bYg5Rnrc6cW6YtOQbZnDHaZ
+FOURSQUARE_API_KEY=RGOSZ13LENELGGDF5UNDSR5DBQYIJVLLHTSX0Z0AJJIDI4AT
+# ───────── News / Feeds / Media ─────────
+NEWSAPI_API_KEY=9273be1a6f7c0462e7a
+GUARDIAN_API_KEY=965778-8c00-36f3bb4550a9
+            # The Guardian Open Platform
+NYTIMES_API_KEY=hCqQA8JHGZAqGLHoGFoVmA2             # Top Stories / Article Search
